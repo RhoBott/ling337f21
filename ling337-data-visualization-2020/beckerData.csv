@@ -1,0 +1,3205 @@
+Respondent ID,Education,Gender,City,Age,Word,Response,id
+6290839372,Doctorate,Male,Bay Area,46,Q3,Feet,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q3,Feet,2
+6290945951,Some college,Male,Bay Area,34,Q3,Feet,3
+6290993154,Master's degree,Male,Bay Area,36,Q3,Feet,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q3,Feet,5
+6291787842,Doctorate,Female,Bay Area,40,Q3,Feet,6
+6292555973,High school,Female,Bay Area,21,Q3,Feet,7
+6292918132,Master's degree,Male,Bay Area,36,Q3,Feet,8
+6293235540,Master's degree,Female,Bay Area,28,Q3,Feet,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q3,Feet,10
+6295443348,Doctorate,Male,Bay Area,70,Q3,Feet,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q3,Feet,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q3,Feet,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q3,Feet,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q3,Feet,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q3,Feet,16
+6303234615,Doctorate,Female,Bay Area,36,Q3,Feet,17
+6290830262,Bachelor's degree,Female,Portland,36,Q3,Feet,18
+6290840132,Master's degree,Male,Portland,26,Q3,Feet,19
+6290890699,Master's degree,Female,Portland,35,Q3,Feet,20
+6290925844,Bachelor's degree,Female,Portland,25,Q3,Feet,21
+6291379727,High school,Male,Portland,44,Q3,Feet,22
+6291470262,Associate's Degree,Female,Portland,33,Q3,Feet,23
+6291565832,Bachelor's degree,Female,Portland,44,Q3,Feet,24
+6292965151,Doctorate,Female,Portland,38,Q3,Feet,25
+6293062574,Some college,Female,Portland,20,Q3,Feet,26
+6295509042,High school,Male,Portland,21,Q3,Feet,27
+6297754080,Master's degree,Female,Portland,33,Q3,Feet,28
+6297937396,Some college,Male,Portland,29,Q3,Feet,29
+6310170633,High school,Female,Portland,22,Q3,Feet,30
+6310172499,Associate's degree,Male,Portland,30,Q3,Feet,31
+6310180520,Bachelor's degree,Male,Portland,36,Q3,Feet,32
+6310269697,Bachelor's degree,Female,Portland,27,Q3,Feet,33
+6310295361,Associate's degree,Female,Portland,36,Q3,Feet,34
+6310344119,Associate's degree,Female,Portland,49,Q3,Feet,35
+6310370630,High school,Male,Portland,28,Q3,Feet,36
+6310391974,High school,Male,Portland,22,Q3,Feet,37
+6310474499,Doctorate,Male,Portland,34,Q3,Feet,38
+6310630982,Master's degree,Female,Portland,26,Q3,Feet,39
+6310741488,Bachelor's degree,Female,Portland,27,Q3,Feet,40
+6310781628,Associate's degree,Female,Portland,30,Q3,Feet,41
+6310817300,Doctorate,Female,Portland,43,Q3,Feet,42
+6310943559,Bachelor's degree,Female,Portland,33,Q3,Feet,43
+6311071344,Some college,Female,Portland,47,Q3,Feet,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q3,Feet,45
+6312143110,Bachelor's degree,Male,Portland,30,Q3,Feet,46
+6312378954,High school,Male,Portland,32,Q3,Feet,47
+6312455890,Master's degree,Female,Portland,33,Q3,Feet,48
+6312895651,Some college,Female,Portland,45,Q3,Feet,49
+6312956818,High school,Female,Portland,32,Q3,Feet,50
+6313063787,Some college,Female,Portland,28,Q3,Feet,51
+6314540779,High school,Female,Portland,34,Q3,Feet,52
+6292013523,Some college,Female,Seattle,21,Q3,Feet,53
+6292236245,Some college,Male,Seattle,48,Q3,Feet,54
+6292385324,High school,Male,Seattle,21,Q3,Feet,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q3,Feet,56
+6292516891,Some college,Female,Seattle,44,Q3,Feet,57
+6293162895,Associate's degree,Female,Seattle,39,Q3,Feet,58
+6293299921,Some college,Female,Seattle,70,Q3,Feet,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q3,Feet,60
+6299984500,Doctorate,Female,Seattle,35,Q3,Feet,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q3,Feet,62
+6310184853,High school,Female,Seattle,30,Q3,Feet,63
+6310186546,Master's degree,Male,Seattle,41,Q3,Feet,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q3,Fit,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q3,Feet,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q3,Feet,67
+6310280357,Some college,Female,Seattle,20,Q3,Feet,68
+6310284486,Some college,Female,Seattle,18,Q3,Feet,69
+6310415216,High school,Male,Seattle,44,Q3,Feet,70
+6310431096,Some college,Female,Seattle,36,Q3,Feet,71
+6310454248,High school,Female,Seattle,63,Q3,Feet,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q3,Feet,73
+6310615011,Some college,Male,Seattle,29,Q3,Feet,74
+6310738946,Doctorate,Female,Seattle,30,Q3,Feet,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q3,Feet,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q3,Feet,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q3,Feet,78
+6310905753,Associate's degree,Male,Seattle,28,Q3,Feet,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q3,Feet,80
+6311198989,High school,Male,Seattle,39,Q3,Feet,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q3,Feet,82
+6312000952,High school,Female,Seattle,31,Q3,Feet,83
+6312012291,High school,Female,Seattle,42,Q3,Feet,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q3,Feet,85
+6312800807,High school,Male,Seattle,51,Q3,Feet,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q3,Feet,87
+6313716227,High school,Female,Seattle,29,Q3,Feet,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q3,Feet,89
+6290839372,Doctorate,Male,Bay Area,46,Q4,Feet,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q4,Feet,2
+6290945951,Some college,Male,Bay Area,34,Q4,Feet,3
+6290993154,Master's degree,Male,Bay Area,36,Q4,Feet,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q4,Feet,5
+6291787842,Doctorate,Female,Bay Area,40,Q4,Feet,6
+6292555973,High school,Female,Bay Area,21,Q4,Feet,7
+6292918132,Master's degree,Male,Bay Area,36,Q4,Feet,8
+6293235540,Master's degree,Female,Bay Area,28,Q4,Feet,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q4,Feet,10
+6295443348,Doctorate,Male,Bay Area,70,Q4,Feet,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q4,Feet,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q4,Feet,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q4,Feet,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q4,Feet,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q4,Feet,16
+6303234615,Doctorate,Female,Bay Area,36,Q4,Feet,17
+6290830262,Bachelor's degree,Female,Portland,36,Q4,Feet,18
+6290840132,Master's degree,Male,Portland,26,Q4,Feet,19
+6290890699,Master's degree,Female,Portland,35,Q4,Feet,20
+6290925844,Bachelor's degree,Female,Portland,25,Q4,Feet,21
+6291379727,High school,Male,Portland,44,Q4,Feet,22
+6291470262,Associate's Degree,Female,Portland,33,Q4,Feet,23
+6291565832,Bachelor's degree,Female,Portland,44,Q4,Feet,24
+6292965151,Doctorate,Female,Portland,38,Q4,Feet,25
+6293062574,Some college,Female,Portland,20,Q4,Feet,26
+6295509042,High school,Male,Portland,21,Q4,Feet,27
+6297754080,Master's degree,Female,Portland,33,Q4,Feet,28
+6297937396,Some college,Male,Portland,29,Q4,Feet,29
+6310170633,High school,Female,Portland,22,Q4,Feet,30
+6310172499,Associate's degree,Male,Portland,30,Q4,Feet,31
+6310180520,Bachelor's degree,Male,Portland,36,Q4,Feet,32
+6310269697,Bachelor's degree,Female,Portland,27,Q4,Feet,33
+6310295361,Associate's degree,Female,Portland,36,Q4,Feet,34
+6310344119,Associate's degree,Female,Portland,49,Q4,Fit,35
+6310370630,High school,Male,Portland,28,Q4,Feet,36
+6310391974,High school,Male,Portland,22,Q4,Feet,37
+6310474499,Doctorate,Male,Portland,34,Q4,Feet,38
+6310630982,Master's degree,Female,Portland,26,Q4,Feet,39
+6310741488,Bachelor's degree,Female,Portland,27,Q4,Feet,40
+6310781628,Associate's degree,Female,Portland,30,Q4,Feet,41
+6310817300,Doctorate,Female,Portland,43,Q4,Feet,42
+6310943559,Bachelor's degree,Female,Portland,33,Q4,Feet,43
+6311071344,Some college,Female,Portland,47,Q4,Feet,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q4,Feet,45
+6312143110,Bachelor's degree,Male,Portland,30,Q4,Feet,46
+6312378954,High school,Male,Portland,32,Q4,Feet,47
+6312455890,Master's degree,Female,Portland,33,Q4,Feet,48
+6312895651,Some college,Female,Portland,45,Q4,Feet,49
+6312956818,High school,Female,Portland,32,Q4,Feet,50
+6313063787,Some college,Female,Portland,28,Q4,Feet,51
+6314540779,High school,Female,Portland,34,Q4,Feet,52
+6292013523,Some college,Female,Seattle,21,Q4,Feet,53
+6292236245,Some college,Male,Seattle,48,Q4,Feet,54
+6292385324,High school,Male,Seattle,21,Q4,Feet,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q4,Feet,56
+6292516891,Some college,Female,Seattle,44,Q4,Feet,57
+6293162895,Associate's degree,Female,Seattle,39,Q4,Feet,58
+6293299921,Some college,Female,Seattle,70,Q4,Feet,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q4,Feet,60
+6299984500,Doctorate,Female,Seattle,35,Q4,Feet,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q4,Feet,62
+6310184853,High school,Female,Seattle,30,Q4,Feet,63
+6310186546,Master's degree,Male,Seattle,41,Q4,Feet,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q4,Feet,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q4,Feet,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q4,Feet,67
+6310280357,Some college,Female,Seattle,20,Q4,Feet,68
+6310284486,Some college,Female,Seattle,18,Q4,Feet,69
+6310415216,High school,Male,Seattle,44,Q4,Feet,70
+6310431096,Some college,Female,Seattle,36,Q4,Feet,71
+6310454248,High school,Female,Seattle,63,Q4,Feet,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q4,Feet,73
+6310615011,Some college,Male,Seattle,29,Q4,Feet,74
+6310738946,Doctorate,Female,Seattle,30,Q4,Feet,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q4,Feet,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q4,Feet,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q4,Feet,78
+6310905753,Associate's degree,Male,Seattle,28,Q4,Feet,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q4,Feet,80
+6311198989,High school,Male,Seattle,39,Q4,Feet,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q4,Feet,82
+6312000952,High school,Female,Seattle,31,Q4,Feet,83
+6312012291,High school,Female,Seattle,42,Q4,Feet,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q4,Feet,85
+6312800807,High school,Male,Seattle,51,Q4,Feet,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q4,Feet,87
+6313716227,High school,Female,Seattle,29,Q4,Feet,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q4,Feet,89
+6290839372,Doctorate,Male,Bay Area,46,Q5,Feet,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q5,Feet,2
+6290945951,Some college,Male,Bay Area,34,Q5,Feet,3
+6290993154,Master's degree,Male,Bay Area,36,Q5,Feet,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q5,Feet,5
+6291787842,Doctorate,Female,Bay Area,40,Q5,Feet,6
+6292555973,High school,Female,Bay Area,21,Q5,Feet,7
+6292918132,Master's degree,Male,Bay Area,36,Q5,Feet,8
+6293235540,Master's degree,Female,Bay Area,28,Q5,Feet,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q5,Fit,10
+6295443348,Doctorate,Male,Bay Area,70,Q5,Feet,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q5,Feet,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q5,Feet,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q5,Feet,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q5,Feet,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q5,Feet,16
+6303234615,Doctorate,Female,Bay Area,36,Q5,Feet,17
+6290830262,Bachelor's degree,Female,Portland,36,Q5,Feet,18
+6290840132,Master's degree,Male,Portland,26,Q5,Feet,19
+6290890699,Master's degree,Female,Portland,35,Q5,Feet,20
+6290925844,Bachelor's degree,Female,Portland,25,Q5,Feet,21
+6291379727,High school,Male,Portland,44,Q5,Feet,22
+6291470262,Associate's Degree,Female,Portland,33,Q5,Feet,23
+6291565832,Bachelor's degree,Female,Portland,44,Q5,Feet,24
+6292965151,Doctorate,Female,Portland,38,Q5,Feet,25
+6293062574,Some college,Female,Portland,20,Q5,Feet,26
+6295509042,High school,Male,Portland,21,Q5,Feet,27
+6297754080,Master's degree,Female,Portland,33,Q5,Feet,28
+6297937396,Some college,Male,Portland,29,Q5,Feet,29
+6310170633,High school,Female,Portland,22,Q5,Feet,30
+6310172499,Associate's degree,Male,Portland,30,Q5,Feet,31
+6310180520,Bachelor's degree,Male,Portland,36,Q5,Feet,32
+6310269697,Bachelor's degree,Female,Portland,27,Q5,Feet,33
+6310295361,Associate's degree,Female,Portland,36,Q5,Feet,34
+6310344119,Associate's degree,Female,Portland,49,Q5,Feet,35
+6310370630,High school,Male,Portland,28,Q5,Feet,36
+6310391974,High school,Male,Portland,22,Q5,Feet,37
+6310474499,Doctorate,Male,Portland,34,Q5,Feet,38
+6310630982,Master's degree,Female,Portland,26,Q5,Feet,39
+6310741488,Bachelor's degree,Female,Portland,27,Q5,Feet,40
+6310781628,Associate's degree,Female,Portland,30,Q5,Feet,41
+6310817300,Doctorate,Female,Portland,43,Q5,Feet,42
+6310943559,Bachelor's degree,Female,Portland,33,Q5,Feet,43
+6311071344,Some college,Female,Portland,47,Q5,Feet,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q5,Feet,45
+6312143110,Bachelor's degree,Male,Portland,30,Q5,Feet,46
+6312378954,High school,Male,Portland,32,Q5,Feet,47
+6312455890,Master's degree,Female,Portland,33,Q5,Feet,48
+6312895651,Some college,Female,Portland,45,Q5,Feet,49
+6312956818,High school,Female,Portland,32,Q5,Feet,50
+6313063787,Some college,Female,Portland,28,Q5,Feet,51
+6314540779,High school,Female,Portland,34,Q5,Feet,52
+6292013523,Some college,Female,Seattle,21,Q5,Feet,53
+6292236245,Some college,Male,Seattle,48,Q5,Feet,54
+6292385324,High school,Male,Seattle,21,Q5,Fit,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q5,Fit,56
+6292516891,Some college,Female,Seattle,44,Q5,Feet,57
+6293162895,Associate's degree,Female,Seattle,39,Q5,Feet,58
+6293299921,Some college,Female,Seattle,70,Q5,Feet,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q5,Feet,60
+6299984500,Doctorate,Female,Seattle,35,Q5,Feet,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q5,Feet,62
+6310184853,High school,Female,Seattle,30,Q5,Fit,63
+6310186546,Master's degree,Male,Seattle,41,Q5,Feet,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q5,Feet,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q5,Feet,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q5,Feet,67
+6310280357,Some college,Female,Seattle,20,Q5,Feet,68
+6310284486,Some college,Female,Seattle,18,Q5,Feet,69
+6310415216,High school,Male,Seattle,44,Q5,Feet,70
+6310431096,Some college,Female,Seattle,36,Q5,Feet,71
+6310454248,High school,Female,Seattle,63,Q5,Feet,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q5,Feet,73
+6310615011,Some college,Male,Seattle,29,Q5,Feet,74
+6310738946,Doctorate,Female,Seattle,30,Q5,Feet,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q5,Fit,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q5,Feet,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q5,Feet,78
+6310905753,Associate's degree,Male,Seattle,28,Q5,Fit,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q5,Feet,80
+6311198989,High school,Male,Seattle,39,Q5,Feet,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q5,Feet,82
+6312000952,High school,Female,Seattle,31,Q5,Feet,83
+6312012291,High school,Female,Seattle,42,Q5,Feet,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q5,Feet,85
+6312800807,High school,Male,Seattle,51,Q5,Feet,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q5,Feet,87
+6313716227,High school,Female,Seattle,29,Q5,Feet,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q5,Feet,89
+6290839372,Doctorate,Male,Bay Area,46,Q6,Feet,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q6,Feet,2
+6290945951,Some college,Male,Bay Area,34,Q6,Feet,3
+6290993154,Master's degree,Male,Bay Area,36,Q6,Feet,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q6,Fit,5
+6291787842,Doctorate,Female,Bay Area,40,Q6,Feet,6
+6292555973,High school,Female,Bay Area,21,Q6,Fit,7
+6292918132,Master's degree,Male,Bay Area,36,Q6,Feet,8
+6293235540,Master's degree,Female,Bay Area,28,Q6,Feet,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q6,Feet,10
+6295443348,Doctorate,Male,Bay Area,70,Q6,Feet,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q6,Feet,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q6,Fit,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q6,Feet,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q6,Feet,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q6,Feet,16
+6303234615,Doctorate,Female,Bay Area,36,Q6,Fit,17
+6290830262,Bachelor's degree,Female,Portland,36,Q6,Feet,18
+6290840132,Master's degree,Male,Portland,26,Q6,Feet,19
+6290890699,Master's degree,Female,Portland,35,Q6,Feet,20
+6290925844,Bachelor's degree,Female,Portland,25,Q6,Feet,21
+6291379727,High school,Male,Portland,44,Q6,Feet,22
+6291470262,Associate's Degree,Female,Portland,33,Q6,Feet,23
+6291565832,Bachelor's degree,Female,Portland,44,Q6,Fit,24
+6292965151,Doctorate,Female,Portland,38,Q6,Feet,25
+6293062574,Some college,Female,Portland,20,Q6,Fit,26
+6295509042,High school,Male,Portland,21,Q6,Feet,27
+6297754080,Master's degree,Female,Portland,33,Q6,Feet,28
+6297937396,Some college,Male,Portland,29,Q6,Feet,29
+6310170633,High school,Female,Portland,22,Q6,Feet,30
+6310172499,Associate's degree,Male,Portland,30,Q6,Feet,31
+6310180520,Bachelor's degree,Male,Portland,36,Q6,Feet,32
+6310269697,Bachelor's degree,Female,Portland,27,Q6,Feet,33
+6310295361,Associate's degree,Female,Portland,36,Q6,Fit,34
+6310344119,Associate's degree,Female,Portland,49,Q6,Feet,35
+6310370630,High school,Male,Portland,28,Q6,Feet,36
+6310391974,High school,Male,Portland,22,Q6,Feet,37
+6310474499,Doctorate,Male,Portland,34,Q6,Feet,38
+6310630982,Master's degree,Female,Portland,26,Q6,Feet,39
+6310741488,Bachelor's degree,Female,Portland,27,Q6,Feet,40
+6310781628,Associate's degree,Female,Portland,30,Q6,Fit,41
+6310817300,Doctorate,Female,Portland,43,Q6,Feet,42
+6310943559,Bachelor's degree,Female,Portland,33,Q6,Feet,43
+6311071344,Some college,Female,Portland,47,Q6,Feet,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q6,Fit,45
+6312143110,Bachelor's degree,Male,Portland,30,Q6,Feet,46
+6312378954,High school,Male,Portland,32,Q6,Feet,47
+6312455890,Master's degree,Female,Portland,33,Q6,Feet,48
+6312895651,Some college,Female,Portland,45,Q6,Feet,49
+6312956818,High school,Female,Portland,32,Q6,Feet,50
+6313063787,Some college,Female,Portland,28,Q6,Feet,51
+6314540779,High school,Female,Portland,34,Q6,Feet,52
+6292013523,Some college,Female,Seattle,21,Q6,Feet,53
+6292236245,Some college,Male,Seattle,48,Q6,Feet,54
+6292385324,High school,Male,Seattle,21,Q6,Fit,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q6,Feet,56
+6292516891,Some college,Female,Seattle,44,Q6,Feet,57
+6293162895,Associate's degree,Female,Seattle,39,Q6,Feet,58
+6293299921,Some college,Female,Seattle,70,Q6,Fit,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q6,Feet,60
+6299984500,Doctorate,Female,Seattle,35,Q6,Feet,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q6,Feet,62
+6310184853,High school,Female,Seattle,30,Q6,Fit,63
+6310186546,Master's degree,Male,Seattle,41,Q6,Fit,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q6,Feet,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q6,Feet,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q6,Feet,67
+6310280357,Some college,Female,Seattle,20,Q6,Feet,68
+6310284486,Some college,Female,Seattle,18,Q6,Feet,69
+6310415216,High school,Male,Seattle,44,Q6,Feet,70
+6310431096,Some college,Female,Seattle,36,Q6,Feet,71
+6310454248,High school,Female,Seattle,63,Q6,Feet,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q6,Feet,73
+6310615011,Some college,Male,Seattle,29,Q6,Feet,74
+6310738946,Doctorate,Female,Seattle,30,Q6,Fit,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q6,Feet,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q6,Feet,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q6,Feet,78
+6310905753,Associate's degree,Male,Seattle,28,Q6,Fit,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q6,Feet,80
+6311198989,High school,Male,Seattle,39,Q6,Feet,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q6,Feet,82
+6312000952,High school,Female,Seattle,31,Q6,Feet,83
+6312012291,High school,Female,Seattle,42,Q6,Feet,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q6,Fit,85
+6312800807,High school,Male,Seattle,51,Q6,Feet,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q6,Feet,87
+6313716227,High school,Female,Seattle,29,Q6,Feet,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q6,Feet,89
+6290839372,Doctorate,Male,Bay Area,46,Q7,Feet,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q7,Fit,2
+6290945951,Some college,Male,Bay Area,34,Q7,Feet,3
+6290993154,Master's degree,Male,Bay Area,36,Q7,Feet,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q7,Fit,5
+6291787842,Doctorate,Female,Bay Area,40,Q7,Feet,6
+6292555973,High school,Female,Bay Area,21,Q7,Fit,7
+6292918132,Master's degree,Male,Bay Area,36,Q7,Fit,8
+6293235540,Master's degree,Female,Bay Area,28,Q7,Fit,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q7,Fit,10
+6295443348,Doctorate,Male,Bay Area,70,Q7,Fit,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q7,Fit,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q7,Fit,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q7,Fit,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q7,Feet,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q7,Fit,16
+6303234615,Doctorate,Female,Bay Area,36,Q7,Feet,17
+6290830262,Bachelor's degree,Female,Portland,36,Q7,Fit,18
+6290840132,Master's degree,Male,Portland,26,Q7,Fit,19
+6290890699,Master's degree,Female,Portland,35,Q7,Feet,20
+6290925844,Bachelor's degree,Female,Portland,25,Q7,Feet,21
+6291379727,High school,Male,Portland,44,Q7,Feet,22
+6291470262,Associate's Degree,Female,Portland,33,Q7,Fit,23
+6291565832,Bachelor's degree,Female,Portland,44,Q7,Feet,24
+6292965151,Doctorate,Female,Portland,38,Q7,Fit,25
+6293062574,Some college,Female,Portland,20,Q7,Fit,26
+6295509042,High school,Male,Portland,21,Q7,Feet,27
+6297754080,Master's degree,Female,Portland,33,Q7,Fit,28
+6297937396,Some college,Male,Portland,29,Q7,Feet,29
+6310170633,High school,Female,Portland,22,Q7,Feet,30
+6310172499,Associate's degree,Male,Portland,30,Q7,Feet,31
+6310180520,Bachelor's degree,Male,Portland,36,Q7,Feet,32
+6310269697,Bachelor's degree,Female,Portland,27,Q7,Feet,33
+6310295361,Associate's degree,Female,Portland,36,Q7,Fit,34
+6310344119,Associate's degree,Female,Portland,49,Q7,Feet,35
+6310370630,High school,Male,Portland,28,Q7,Fit,36
+6310391974,High school,Male,Portland,22,Q7,Fit,37
+6310474499,Doctorate,Male,Portland,34,Q7,Fit,38
+6310630982,Master's degree,Female,Portland,26,Q7,Fit,39
+6310741488,Bachelor's degree,Female,Portland,27,Q7,Fit,40
+6310781628,Associate's degree,Female,Portland,30,Q7,Feet,41
+6310817300,Doctorate,Female,Portland,43,Q7,Fit,42
+6310943559,Bachelor's degree,Female,Portland,33,Q7,Feet,43
+6311071344,Some college,Female,Portland,47,Q7,Feet,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q7,Fit,45
+6312143110,Bachelor's degree,Male,Portland,30,Q7,Feet,46
+6312378954,High school,Male,Portland,32,Q7,Fit,47
+6312455890,Master's degree,Female,Portland,33,Q7,Fit,48
+6312895651,Some college,Female,Portland,45,Q7,Feet,49
+6312956818,High school,Female,Portland,32,Q7,Feet,50
+6313063787,Some college,Female,Portland,28,Q7,Feet,51
+6314540779,High school,Female,Portland,34,Q7,Feet,52
+6292013523,Some college,Female,Seattle,21,Q7,Fit,53
+6292236245,Some college,Male,Seattle,48,Q7,Feet,54
+6292385324,High school,Male,Seattle,21,Q7,Fit,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q7,Feet,56
+6292516891,Some college,Female,Seattle,44,Q7,Fit,57
+6293162895,Associate's degree,Female,Seattle,39,Q7,Feet,58
+6293299921,Some college,Female,Seattle,70,Q7,Fit,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q7,Feet,60
+6299984500,Doctorate,Female,Seattle,35,Q7,Feet,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q7,Fit,62
+6310184853,High school,Female,Seattle,30,Q7,Fit,63
+6310186546,Master's degree,Male,Seattle,41,Q7,Fit,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q7,Feet,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q7,Feet,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q7,Feet,67
+6310280357,Some college,Female,Seattle,20,Q7,Fit,68
+6310284486,Some college,Female,Seattle,18,Q7,Feet,69
+6310415216,High school,Male,Seattle,44,Q7,Feet,70
+6310431096,Some college,Female,Seattle,36,Q7,Feet,71
+6310454248,High school,Female,Seattle,63,Q7,Feet,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q7,Feet,73
+6310615011,Some college,Male,Seattle,29,Q7,Feet,74
+6310738946,Doctorate,Female,Seattle,30,Q7,Fit,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q7,Fit,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q7,Feet,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q7,Feet,78
+6310905753,Associate's degree,Male,Seattle,28,Q7,Fit,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q7,Fit,80
+6311198989,High school,Male,Seattle,39,Q7,Fit,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q7,Feet,82
+6312000952,High school,Female,Seattle,31,Q7,Fit,83
+6312012291,High school,Female,Seattle,42,Q7,Fit,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q7,Fit,85
+6312800807,High school,Male,Seattle,51,Q7,Feet,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q7,Feet,87
+6313716227,High school,Female,Seattle,29,Q7,Feet,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q7,Feet,89
+6290839372,Doctorate,Male,Bay Area,46,Q8,Fit,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q8,Fit,2
+6290945951,Some college,Male,Bay Area,34,Q8,Fit,3
+6290993154,Master's degree,Male,Bay Area,36,Q8,Feet,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q8,Fit,5
+6291787842,Doctorate,Female,Bay Area,40,Q8,Fit,6
+6292555973,High school,Female,Bay Area,21,Q8,Fit,7
+6292918132,Master's degree,Male,Bay Area,36,Q8,Fit,8
+6293235540,Master's degree,Female,Bay Area,28,Q8,Fit,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q8,Fit,10
+6295443348,Doctorate,Male,Bay Area,70,Q8,Fit,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q8,Fit,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q8,Fit,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q8,Fit,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q8,Fit,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q8,Fit,16
+6303234615,Doctorate,Female,Bay Area,36,Q8,Fit,17
+6290830262,Bachelor's degree,Female,Portland,36,Q8,Fit,18
+6290840132,Master's degree,Male,Portland,26,Q8,Fit,19
+6290890699,Master's degree,Female,Portland,35,Q8,Feet,20
+6290925844,Bachelor's degree,Female,Portland,25,Q8,Fit,21
+6291379727,High school,Male,Portland,44,Q8,Feet,22
+6291470262,Associate's Degree,Female,Portland,33,Q8,Fit,23
+6291565832,Bachelor's degree,Female,Portland,44,Q8,Fit,24
+6292965151,Doctorate,Female,Portland,38,Q8,Fit,25
+6293062574,Some college,Female,Portland,20,Q8,Fit,26
+6295509042,High school,Male,Portland,21,Q8,Fit,27
+6297754080,Master's degree,Female,Portland,33,Q8,Fit,28
+6297937396,Some college,Male,Portland,29,Q8,Feet,29
+6310170633,High school,Female,Portland,22,Q8,Feet,30
+6310172499,Associate's degree,Male,Portland,30,Q8,Fit,31
+6310180520,Bachelor's degree,Male,Portland,36,Q8,Feet,32
+6310269697,Bachelor's degree,Female,Portland,27,Q8,Feet,33
+6310295361,Associate's degree,Female,Portland,36,Q8,Fit,34
+6310344119,Associate's degree,Female,Portland,49,Q8,Feet,35
+6310370630,High school,Male,Portland,28,Q8,Fit,36
+6310391974,High school,Male,Portland,22,Q8,Fit,37
+6310474499,Doctorate,Male,Portland,34,Q8,Fit,38
+6310630982,Master's degree,Female,Portland,26,Q8,Fit,39
+6310741488,Bachelor's degree,Female,Portland,27,Q8,Fit,40
+6310781628,Associate's degree,Female,Portland,30,Q8,Fit,41
+6310817300,Doctorate,Female,Portland,43,Q8,Fit,42
+6310943559,Bachelor's degree,Female,Portland,33,Q8,Fit,43
+6311071344,Some college,Female,Portland,47,Q8,Fit,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q8,Fit,45
+6312143110,Bachelor's degree,Male,Portland,30,Q8,Feet,46
+6312378954,High school,Male,Portland,32,Q8,Fit,47
+6312455890,Master's degree,Female,Portland,33,Q8,Fit,48
+6312895651,Some college,Female,Portland,45,Q8,Fit,49
+6312956818,High school,Female,Portland,32,Q8,Fit,50
+6313063787,Some college,Female,Portland,28,Q8,Feet,51
+6314540779,High school,Female,Portland,34,Q8,Feet,52
+6292013523,Some college,Female,Seattle,21,Q8,Fit,53
+6292236245,Some college,Male,Seattle,48,Q8,Feet,54
+6292385324,High school,Male,Seattle,21,Q8,Fit,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q8,Fit,56
+6292516891,Some college,Female,Seattle,44,Q8,Fit,57
+6293162895,Associate's degree,Female,Seattle,39,Q8,Fit,58
+6293299921,Some college,Female,Seattle,70,Q8,Fit,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q8,Fit,60
+6299984500,Doctorate,Female,Seattle,35,Q8,Fit,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q8,Fit,62
+6310184853,High school,Female,Seattle,30,Q8,Fit,63
+6310186546,Master's degree,Male,Seattle,41,Q8,Fit,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q8,Fit,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q8,Feet,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q8,Fit,67
+6310280357,Some college,Female,Seattle,20,Q8,Fit,68
+6310284486,Some college,Female,Seattle,18,Q8,Fit,69
+6310415216,High school,Male,Seattle,44,Q8,Fit,70
+6310431096,Some college,Female,Seattle,36,Q8,Fit,71
+6310454248,High school,Female,Seattle,63,Q8,Feet,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q8,Feet,73
+6310615011,Some college,Male,Seattle,29,Q8,Fit,74
+6310738946,Doctorate,Female,Seattle,30,Q8,Fit,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q8,Feet,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q8,Fit,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q8,Fit,78
+6310905753,Associate's degree,Male,Seattle,28,Q8,Fit,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q8,Fit,80
+6311198989,High school,Male,Seattle,39,Q8,Fit,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q8,Feet,82
+6312000952,High school,Female,Seattle,31,Q8,Fit,83
+6312012291,High school,Female,Seattle,42,Q8,Fit,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q8,Fit,85
+6312800807,High school,Male,Seattle,51,Q8,Fit,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q8,Fit,87
+6313716227,High school,Female,Seattle,29,Q8,Feet,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q8,Fit,89
+6290839372,Doctorate,Male,Bay Area,46,Q9,Fit,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q9,Fit,2
+6290945951,Some college,Male,Bay Area,34,Q9,Fit,3
+6290993154,Master's degree,Male,Bay Area,36,Q9,Fit,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q9,Fit,5
+6291787842,Doctorate,Female,Bay Area,40,Q9,Fit,6
+6292555973,High school,Female,Bay Area,21,Q9,Fit,7
+6292918132,Master's degree,Male,Bay Area,36,Q9,Fit,8
+6293235540,Master's degree,Female,Bay Area,28,Q9,Fit,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q9,Fit,10
+6295443348,Doctorate,Male,Bay Area,70,Q9,Fit,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q9,Fit,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q9,Fit,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q9,Fit,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q9,Fit,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q9,Fit,16
+6303234615,Doctorate,Female,Bay Area,36,Q9,Fit,17
+6290830262,Bachelor's degree,Female,Portland,36,Q9,Fit,18
+6290840132,Master's degree,Male,Portland,26,Q9,Fit,19
+6290890699,Master's degree,Female,Portland,35,Q9,Feet,20
+6290925844,Bachelor's degree,Female,Portland,25,Q9,Fit,21
+6291379727,High school,Male,Portland,44,Q9,Feet,22
+6291470262,Associate's Degree,Female,Portland,33,Q9,Fit,23
+6291565832,Bachelor's degree,Female,Portland,44,Q9,Fit,24
+6292965151,Doctorate,Female,Portland,38,Q9,Fit,25
+6293062574,Some college,Female,Portland,20,Q9,Fit,26
+6295509042,High school,Male,Portland,21,Q9,Fit,27
+6297754080,Master's degree,Female,Portland,33,Q9,Fit,28
+6297937396,Some college,Male,Portland,29,Q9,Feet,29
+6310170633,High school,Female,Portland,22,Q9,Fit,30
+6310172499,Associate's degree,Male,Portland,30,Q9,Fit,31
+6310180520,Bachelor's degree,Male,Portland,36,Q9,Feet,32
+6310269697,Bachelor's degree,Female,Portland,27,Q9,Fit,33
+6310295361,Associate's degree,Female,Portland,36,Q9,Fit,34
+6310344119,Associate's degree,Female,Portland,49,Q9,Feet,35
+6310370630,High school,Male,Portland,28,Q9,Fit,36
+6310391974,High school,Male,Portland,22,Q9,Fit,37
+6310474499,Doctorate,Male,Portland,34,Q9,Fit,38
+6310630982,Master's degree,Female,Portland,26,Q9,Fit,39
+6310741488,Bachelor's degree,Female,Portland,27,Q9,Fit,40
+6310781628,Associate's degree,Female,Portland,30,Q9,Fit,41
+6310817300,Doctorate,Female,Portland,43,Q9,Fit,42
+6310943559,Bachelor's degree,Female,Portland,33,Q9,Fit,43
+6311071344,Some college,Female,Portland,47,Q9,Fit,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q9,Fit,45
+6312143110,Bachelor's degree,Male,Portland,30,Q9,Feet,46
+6312378954,High school,Male,Portland,32,Q9,Fit,47
+6312455890,Master's degree,Female,Portland,33,Q9,Fit,48
+6312895651,Some college,Female,Portland,45,Q9,Fit,49
+6312956818,High school,Female,Portland,32,Q9,Fit,50
+6313063787,Some college,Female,Portland,28,Q9,Feet,51
+6314540779,High school,Female,Portland,34,Q9,Fit,52
+6292013523,Some college,Female,Seattle,21,Q9,Fit,53
+6292236245,Some college,Male,Seattle,48,Q9,Feet,54
+6292385324,High school,Male,Seattle,21,Q9,Fit,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q9,Fit,56
+6292516891,Some college,Female,Seattle,44,Q9,Fit,57
+6293162895,Associate's degree,Female,Seattle,39,Q9,Fit,58
+6293299921,Some college,Female,Seattle,70,Q9,Fit,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q9,Fit,60
+6299984500,Doctorate,Female,Seattle,35,Q9,Fit,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q9,Fit,62
+6310184853,High school,Female,Seattle,30,Q9,Fit,63
+6310186546,Master's degree,Male,Seattle,41,Q9,Feet,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q9,Fit,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q9,Fit,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q9,Fit,67
+6310280357,Some college,Female,Seattle,20,Q9,Fit,68
+6310284486,Some college,Female,Seattle,18,Q9,Fit,69
+6310415216,High school,Male,Seattle,44,Q9,Fit,70
+6310431096,Some college,Female,Seattle,36,Q9,Fit,71
+6310454248,High school,Female,Seattle,63,Q9,Fit,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q9,Fit,73
+6310615011,Some college,Male,Seattle,29,Q9,Fit,74
+6310738946,Doctorate,Female,Seattle,30,Q9,Fit,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q9,Fit,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q9,Fit,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q9,Fit,78
+6310905753,Associate's degree,Male,Seattle,28,Q9,Fit,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q9,Fit,80
+6311198989,High school,Male,Seattle,39,Q9,Fit,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q9,Feet,82
+6312000952,High school,Female,Seattle,31,Q9,Fit,83
+6312012291,High school,Female,Seattle,42,Q9,Fit,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q9,Fit,85
+6312800807,High school,Male,Seattle,51,Q9,Fit,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q9,Fit,87
+6313716227,High school,Female,Seattle,29,Q9,Feet,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q9,Fit,89
+6290839372,Doctorate,Male,Bay Area,46,Q10,Fit,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q10,Fit,2
+6290945951,Some college,Male,Bay Area,34,Q10,Fit,3
+6290993154,Master's degree,Male,Bay Area,36,Q10,Fit,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q10,Fit,5
+6291787842,Doctorate,Female,Bay Area,40,Q10,Fit,6
+6292555973,High school,Female,Bay Area,21,Q10,Fit,7
+6292918132,Master's degree,Male,Bay Area,36,Q10,Fit,8
+6293235540,Master's degree,Female,Bay Area,28,Q10,Fit,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q10,Fit,10
+6295443348,Doctorate,Male,Bay Area,70,Q10,Fit,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q10,Fit,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q10,Fit,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q10,Fit,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q10,Fit,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q10,Fit,16
+6303234615,Doctorate,Female,Bay Area,36,Q10,Fit,17
+6290830262,Bachelor's degree,Female,Portland,36,Q10,Fit,18
+6290840132,Master's degree,Male,Portland,26,Q10,Fit,19
+6290890699,Master's degree,Female,Portland,35,Q10,Feet,20
+6290925844,Bachelor's degree,Female,Portland,25,Q10,Fit,21
+6291379727,High school,Male,Portland,44,Q10,Feet,22
+6291470262,Associate's Degree,Female,Portland,33,Q10,Fit,23
+6291565832,Bachelor's degree,Female,Portland,44,Q10,Fit,24
+6292965151,Doctorate,Female,Portland,38,Q10,Fit,25
+6293062574,Some college,Female,Portland,20,Q10,Fit,26
+6295509042,High school,Male,Portland,21,Q10,Fit,27
+6297754080,Master's degree,Female,Portland,33,Q10,Fit,28
+6297937396,Some college,Male,Portland,29,Q10,Feet,29
+6310170633,High school,Female,Portland,22,Q10,Fit,30
+6310172499,Associate's degree,Male,Portland,30,Q10,Fit,31
+6310180520,Bachelor's degree,Male,Portland,36,Q10,Fit,32
+6310269697,Bachelor's degree,Female,Portland,27,Q10,Fit,33
+6310295361,Associate's degree,Female,Portland,36,Q10,Fit,34
+6310344119,Associate's degree,Female,Portland,49,Q10,Fit,35
+6310370630,High school,Male,Portland,28,Q10,Fit,36
+6310391974,High school,Male,Portland,22,Q10,Fit,37
+6310474499,Doctorate,Male,Portland,34,Q10,Feet,38
+6310630982,Master's degree,Female,Portland,26,Q10,Fit,39
+6310741488,Bachelor's degree,Female,Portland,27,Q10,Fit,40
+6310781628,Associate's degree,Female,Portland,30,Q10,Fit,41
+6310817300,Doctorate,Female,Portland,43,Q10,Fit,42
+6310943559,Bachelor's degree,Female,Portland,33,Q10,Fit,43
+6311071344,Some college,Female,Portland,47,Q10,Fit,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q10,Fit,45
+6312143110,Bachelor's degree,Male,Portland,30,Q10,Fit,46
+6312378954,High school,Male,Portland,32,Q10,Fit,47
+6312455890,Master's degree,Female,Portland,33,Q10,Fit,48
+6312895651,Some college,Female,Portland,45,Q10,Fit,49
+6312956818,High school,Female,Portland,32,Q10,Fit,50
+6313063787,Some college,Female,Portland,28,Q10,Fit,51
+6314540779,High school,Female,Portland,34,Q10,Feet,52
+6292013523,Some college,Female,Seattle,21,Q10,Fit,53
+6292236245,Some college,Male,Seattle,48,Q10,Fit,54
+6292385324,High school,Male,Seattle,21,Q10,Fit,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q10,Fit,56
+6292516891,Some college,Female,Seattle,44,Q10,Fit,57
+6293162895,Associate's degree,Female,Seattle,39,Q10,Fit,58
+6293299921,Some college,Female,Seattle,70,Q10,Fit,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q10,Fit,60
+6299984500,Doctorate,Female,Seattle,35,Q10,Fit,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q10,Fit,62
+6310184853,High school,Female,Seattle,30,Q10,Fit,63
+6310186546,Master's degree,Male,Seattle,41,Q10,Fit,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q10,Fit,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q10,Fit,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q10,Fit,67
+6310280357,Some college,Female,Seattle,20,Q10,Fit,68
+6310284486,Some college,Female,Seattle,18,Q10,Fit,69
+6310415216,High school,Male,Seattle,44,Q10,Fit,70
+6310431096,Some college,Female,Seattle,36,Q10,Fit,71
+6310454248,High school,Female,Seattle,63,Q10,Fit,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q10,Fit,73
+6310615011,Some college,Male,Seattle,29,Q10,Fit,74
+6310738946,Doctorate,Female,Seattle,30,Q10,Fit,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q10,Fit,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q10,Fit,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q10,Fit,78
+6310905753,Associate's degree,Male,Seattle,28,Q10,Fit,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q10,Fit,80
+6311198989,High school,Male,Seattle,39,Q10,Fit,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q10,Fit,82
+6312000952,High school,Female,Seattle,31,Q10,Fit,83
+6312012291,High school,Female,Seattle,42,Q10,Fit,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q10,Fit,85
+6312800807,High school,Male,Seattle,51,Q10,Fit,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q10,Fit,87
+6313716227,High school,Female,Seattle,29,Q10,Feet,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q10,Fit,89
+6290839372,Doctorate,Male,Bay Area,46,Q11,Top,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q11,Top,2
+6290945951,Some college,Male,Bay Area,34,Q11,Top,3
+6290993154,Master's degree,Male,Bay Area,36,Q11,Tap,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q11,Top,5
+6291787842,Doctorate,Female,Bay Area,40,Q11,Top,6
+6292555973,High school,Female,Bay Area,21,Q11,Top,7
+6292918132,Master's degree,Male,Bay Area,36,Q11,Top,8
+6293235540,Master's degree,Female,Bay Area,28,Q11,Top,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q11,Tap,10
+6295443348,Doctorate,Male,Bay Area,70,Q11,Tap,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q11,Top,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q11,Tap,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q11,Top,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q11,Top,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q11,Top,16
+6303234615,Doctorate,Female,Bay Area,36,Q11,Top,17
+6290830262,Bachelor's degree,Female,Portland,36,Q11,Tap,18
+6290840132,Master's degree,Male,Portland,26,Q11,Top,19
+6290890699,Master's degree,Female,Portland,35,Q11,Tap,20
+6290925844,Bachelor's degree,Female,Portland,25,Q11,Top,21
+6291379727,High school,Male,Portland,44,Q11,Top,22
+6291470262,Associate's Degree,Female,Portland,33,Q11,Top,23
+6291565832,Bachelor's degree,Female,Portland,44,Q11,Top,24
+6292965151,Doctorate,Female,Portland,38,Q11,Top,25
+6293062574,Some college,Female,Portland,20,Q11,Top,26
+6295509042,High school,Male,Portland,21,Q11,Tap,27
+6297754080,Master's degree,Female,Portland,33,Q11,Top,28
+6297937396,Some college,Male,Portland,29,Q11,Tap,29
+6310170633,High school,Female,Portland,22,Q11,Top,30
+6310172499,Associate's degree,Male,Portland,30,Q11,Top,31
+6310180520,Bachelor's degree,Male,Portland,36,Q11,Top,32
+6310269697,Bachelor's degree,Female,Portland,27,Q11,Tap,33
+6310295361,Associate's degree,Female,Portland,36,Q11,Top,34
+6310344119,Associate's degree,Female,Portland,49,Q11,Top,35
+6310370630,High school,Male,Portland,28,Q11,Tap,36
+6310391974,High school,Male,Portland,22,Q11,Top,37
+6310474499,Doctorate,Male,Portland,34,Q11,Tap,38
+6310630982,Master's degree,Female,Portland,26,Q11,Tap,39
+6310741488,Bachelor's degree,Female,Portland,27,Q11,Tap,40
+6310781628,Associate's degree,Female,Portland,30,Q11,Tap,41
+6310817300,Doctorate,Female,Portland,43,Q11,Top,42
+6310943559,Bachelor's degree,Female,Portland,33,Q11,Top,43
+6311071344,Some college,Female,Portland,47,Q11,Tap,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q11,Tap,45
+6312143110,Bachelor's degree,Male,Portland,30,Q11,Tap,46
+6312378954,High school,Male,Portland,32,Q11,Top,47
+6312455890,Master's degree,Female,Portland,33,Q11,Top,48
+6312895651,Some college,Female,Portland,45,Q11,Tap,49
+6312956818,High school,Female,Portland,32,Q11,Top,50
+6313063787,Some college,Female,Portland,28,Q11,Tap,51
+6314540779,High school,Female,Portland,34,Q11,Top,52
+6292013523,Some college,Female,Seattle,21,Q11,Top,53
+6292236245,Some college,Male,Seattle,48,Q11,Top,54
+6292385324,High school,Male,Seattle,21,Q11,Top,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q11,Top,56
+6292516891,Some college,Female,Seattle,44,Q11,Top,57
+6293162895,Associate's degree,Female,Seattle,39,Q11,Top,58
+6293299921,Some college,Female,Seattle,70,Q11,Top,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q11,Top,60
+6299984500,Doctorate,Female,Seattle,35,Q11,Top,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q11,Tap,62
+6310184853,High school,Female,Seattle,30,Q11,Tap,63
+6310186546,Master's degree,Male,Seattle,41,Q11,Top,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q11,Top,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q11,Top,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q11,Top,67
+6310280357,Some college,Female,Seattle,20,Q11,Tap,68
+6310284486,Some college,Female,Seattle,18,Q11,Tap,69
+6310415216,High school,Male,Seattle,44,Q11,Tap,70
+6310431096,Some college,Female,Seattle,36,Q11,Tap,71
+6310454248,High school,Female,Seattle,63,Q11,Tap,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q11,Top,73
+6310615011,Some college,Male,Seattle,29,Q11,Tap,74
+6310738946,Doctorate,Female,Seattle,30,Q11,Tap,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q11,Tap,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q11,Tap,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q11,Tap,78
+6310905753,Associate's degree,Male,Seattle,28,Q11,Top,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q11,Top,80
+6311198989,High school,Male,Seattle,39,Q11,Top,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q11,Top,82
+6312000952,High school,Female,Seattle,31,Q11,Top,83
+6312012291,High school,Female,Seattle,42,Q11,Top,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q11,Top,85
+6312800807,High school,Male,Seattle,51,Q11,Top,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q11,Top,87
+6313716227,High school,Female,Seattle,29,Q11,Top,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q11,Top,89
+6290839372,Doctorate,Male,Bay Area,46,Q12,Top,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q12,Top,2
+6290945951,Some college,Male,Bay Area,34,Q12,Top,3
+6290993154,Master's degree,Male,Bay Area,36,Q12,Top,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q12,Top,5
+6291787842,Doctorate,Female,Bay Area,40,Q12,Top,6
+6292555973,High school,Female,Bay Area,21,Q12,Top,7
+6292918132,Master's degree,Male,Bay Area,36,Q12,Top,8
+6293235540,Master's degree,Female,Bay Area,28,Q12,Top,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q12,Top,10
+6295443348,Doctorate,Male,Bay Area,70,Q12,Top,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q12,Top,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q12,Top,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q12,Top,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q12,Top,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q12,Tap,16
+6303234615,Doctorate,Female,Bay Area,36,Q12,Top,17
+6290830262,Bachelor's degree,Female,Portland,36,Q12,Top,18
+6290840132,Master's degree,Male,Portland,26,Q12,Top,19
+6290890699,Master's degree,Female,Portland,35,Q12,Top,20
+6290925844,Bachelor's degree,Female,Portland,25,Q12,Top,21
+6291379727,High school,Male,Portland,44,Q12,Top,22
+6291470262,Associate's Degree,Female,Portland,33,Q12,Top,23
+6291565832,Bachelor's degree,Female,Portland,44,Q12,Top,24
+6292965151,Doctorate,Female,Portland,38,Q12,Top,25
+6293062574,Some college,Female,Portland,20,Q12,Top,26
+6295509042,High school,Male,Portland,21,Q12,Top,27
+6297754080,Master's degree,Female,Portland,33,Q12,Top,28
+6297937396,Some college,Male,Portland,29,Q12,Top,29
+6310170633,High school,Female,Portland,22,Q12,Top,30
+6310172499,Associate's degree,Male,Portland,30,Q12,Top,31
+6310180520,Bachelor's degree,Male,Portland,36,Q12,Top,32
+6310269697,Bachelor's degree,Female,Portland,27,Q12,Top,33
+6310295361,Associate's degree,Female,Portland,36,Q12,Top,34
+6310344119,Associate's degree,Female,Portland,49,Q12,Top,35
+6310370630,High school,Male,Portland,28,Q12,Tap,36
+6310391974,High school,Male,Portland,22,Q12,Top,37
+6310474499,Doctorate,Male,Portland,34,Q12,Tap,38
+6310630982,Master's degree,Female,Portland,26,Q12,Tap,39
+6310741488,Bachelor's degree,Female,Portland,27,Q12,Top,40
+6310781628,Associate's degree,Female,Portland,30,Q12,Tap,41
+6310817300,Doctorate,Female,Portland,43,Q12,Top,42
+6310943559,Bachelor's degree,Female,Portland,33,Q12,Top,43
+6311071344,Some college,Female,Portland,47,Q12,Top,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q12,Tap,45
+6312143110,Bachelor's degree,Male,Portland,30,Q12,Top,46
+6312378954,High school,Male,Portland,32,Q12,Top,47
+6312455890,Master's degree,Female,Portland,33,Q12,Top,48
+6312895651,Some college,Female,Portland,45,Q12,Top,49
+6312956818,High school,Female,Portland,32,Q12,Top,50
+6313063787,Some college,Female,Portland,28,Q12,Top,51
+6314540779,High school,Female,Portland,34,Q12,Top,52
+6292013523,Some college,Female,Seattle,21,Q12,Top,53
+6292236245,Some college,Male,Seattle,48,Q12,Top,54
+6292385324,High school,Male,Seattle,21,Q12,Top,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q12,Top,56
+6292516891,Some college,Female,Seattle,44,Q12,Top,57
+6293162895,Associate's degree,Female,Seattle,39,Q12,Top,58
+6293299921,Some college,Female,Seattle,70,Q12,Top,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q12,Top,60
+6299984500,Doctorate,Female,Seattle,35,Q12,Top,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q12,Top,62
+6310184853,High school,Female,Seattle,30,Q12,Tap,63
+6310186546,Master's degree,Male,Seattle,41,Q12,Top,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q12,Top,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q12,Top,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q12,Top,67
+6310280357,Some college,Female,Seattle,20,Q12,Tap,68
+6310284486,Some college,Female,Seattle,18,Q12,Top,69
+6310415216,High school,Male,Seattle,44,Q12,Top,70
+6310431096,Some college,Female,Seattle,36,Q12,Top,71
+6310454248,High school,Female,Seattle,63,Q12,Top,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q12,Top,73
+6310615011,Some college,Male,Seattle,29,Q12,Top,74
+6310738946,Doctorate,Female,Seattle,30,Q12,Tap,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q12,Top,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q12,Top,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q12,Top,78
+6310905753,Associate's degree,Male,Seattle,28,Q12,Top,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q12,Top,80
+6311198989,High school,Male,Seattle,39,Q12,Top,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q12,Top,82
+6312000952,High school,Female,Seattle,31,Q12,Top,83
+6312012291,High school,Female,Seattle,42,Q12,Top,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q12,Top,85
+6312800807,High school,Male,Seattle,51,Q12,Top,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q12,Top,87
+6313716227,High school,Female,Seattle,29,Q12,Top,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q12,Top,89
+6290839372,Doctorate,Male,Bay Area,46,Q13,Top,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q13,Top,2
+6290945951,Some college,Male,Bay Area,34,Q13,Top,3
+6290993154,Master's degree,Male,Bay Area,36,Q13,Top,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q13,Top,5
+6291787842,Doctorate,Female,Bay Area,40,Q13,Top,6
+6292555973,High school,Female,Bay Area,21,Q13,Top,7
+6292918132,Master's degree,Male,Bay Area,36,Q13,Top,8
+6293235540,Master's degree,Female,Bay Area,28,Q13,Top,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q13,Top,10
+6295443348,Doctorate,Male,Bay Area,70,Q13,Tap,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q13,Top,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q13,Top,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q13,Top,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q13,Top,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q13,Top,16
+6303234615,Doctorate,Female,Bay Area,36,Q13,Top,17
+6290830262,Bachelor's degree,Female,Portland,36,Q13,Top,18
+6290840132,Master's degree,Male,Portland,26,Q13,Top,19
+6290890699,Master's degree,Female,Portland,35,Q13,Top,20
+6290925844,Bachelor's degree,Female,Portland,25,Q13,Top,21
+6291379727,High school,Male,Portland,44,Q13,Top,22
+6291470262,Associate's Degree,Female,Portland,33,Q13,Top,23
+6291565832,Bachelor's degree,Female,Portland,44,Q13,Top,24
+6292965151,Doctorate,Female,Portland,38,Q13,Top,25
+6293062574,Some college,Female,Portland,20,Q13,Top,26
+6295509042,High school,Male,Portland,21,Q13,Top,27
+6297754080,Master's degree,Female,Portland,33,Q13,Top,28
+6297937396,Some college,Male,Portland,29,Q13,Tap,29
+6310170633,High school,Female,Portland,22,Q13,Top,30
+6310172499,Associate's degree,Male,Portland,30,Q13,Top,31
+6310180520,Bachelor's degree,Male,Portland,36,Q13,Top,32
+6310269697,Bachelor's degree,Female,Portland,27,Q13,Top,33
+6310295361,Associate's degree,Female,Portland,36,Q13,Top,34
+6310344119,Associate's degree,Female,Portland,49,Q13,Top,35
+6310370630,High school,Male,Portland,28,Q13,Tap,36
+6310391974,High school,Male,Portland,22,Q13,Top,37
+6310474499,Doctorate,Male,Portland,34,Q13,Top,38
+6310630982,Master's degree,Female,Portland,26,Q13,Tap,39
+6310741488,Bachelor's degree,Female,Portland,27,Q13,Top,40
+6310781628,Associate's degree,Female,Portland,30,Q13,Top,41
+6310817300,Doctorate,Female,Portland,43,Q13,Top,42
+6310943559,Bachelor's degree,Female,Portland,33,Q13,Top,43
+6311071344,Some college,Female,Portland,47,Q13,Top,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q13,Tap,45
+6312143110,Bachelor's degree,Male,Portland,30,Q13,Top,46
+6312378954,High school,Male,Portland,32,Q13,Top,47
+6312455890,Master's degree,Female,Portland,33,Q13,Top,48
+6312895651,Some college,Female,Portland,45,Q13,Top,49
+6312956818,High school,Female,Portland,32,Q13,Top,50
+6313063787,Some college,Female,Portland,28,Q13,Top,51
+6314540779,High school,Female,Portland,34,Q13,Top,52
+6292013523,Some college,Female,Seattle,21,Q13,Top,53
+6292236245,Some college,Male,Seattle,48,Q13,Top,54
+6292385324,High school,Male,Seattle,21,Q13,Top,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q13,Top,56
+6292516891,Some college,Female,Seattle,44,Q13,Top,57
+6293162895,Associate's degree,Female,Seattle,39,Q13,Top,58
+6293299921,Some college,Female,Seattle,70,Q13,Top,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q13,Top,60
+6299984500,Doctorate,Female,Seattle,35,Q13,Top,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q13,Top,62
+6310184853,High school,Female,Seattle,30,Q13,Tap,63
+6310186546,Master's degree,Male,Seattle,41,Q13,Top,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q13,Top,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q13,Top,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q13,Top,67
+6310280357,Some college,Female,Seattle,20,Q13,Top,68
+6310284486,Some college,Female,Seattle,18,Q13,Top,69
+6310415216,High school,Male,Seattle,44,Q13,Top,70
+6310431096,Some college,Female,Seattle,36,Q13,Top,71
+6310454248,High school,Female,Seattle,63,Q13,Tap,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q13,Top,73
+6310615011,Some college,Male,Seattle,29,Q13,Top,74
+6310738946,Doctorate,Female,Seattle,30,Q13,Tap,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q13,Tap,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q13,Top,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q13,Top,78
+6310905753,Associate's degree,Male,Seattle,28,Q13,Top,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q13,Top,80
+6311198989,High school,Male,Seattle,39,Q13,Top,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q13,Top,82
+6312000952,High school,Female,Seattle,31,Q13,Top,83
+6312012291,High school,Female,Seattle,42,Q13,Top,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q13,Top,85
+6312800807,High school,Male,Seattle,51,Q13,Top,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q13,Top,87
+6313716227,High school,Female,Seattle,29,Q13,Top,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q13,Top,89
+6290839372,Doctorate,Male,Bay Area,46,Q14,Top,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q14,Top,2
+6290945951,Some college,Male,Bay Area,34,Q14,Top,3
+6290993154,Master's degree,Male,Bay Area,36,Q14,Top,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q14,Top,5
+6291787842,Doctorate,Female,Bay Area,40,Q14,Top,6
+6292555973,High school,Female,Bay Area,21,Q14,Top,7
+6292918132,Master's degree,Male,Bay Area,36,Q14,Top,8
+6293235540,Master's degree,Female,Bay Area,28,Q14,Top,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q14,Top,10
+6295443348,Doctorate,Male,Bay Area,70,Q14,Tap,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q14,Top,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q14,Top,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q14,Top,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q14,Top,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q14,Top,16
+6303234615,Doctorate,Female,Bay Area,36,Q14,Top,17
+6290830262,Bachelor's degree,Female,Portland,36,Q14,Top,18
+6290840132,Master's degree,Male,Portland,26,Q14,Top,19
+6290890699,Master's degree,Female,Portland,35,Q14,Tap,20
+6290925844,Bachelor's degree,Female,Portland,25,Q14,Top,21
+6291379727,High school,Male,Portland,44,Q14,Top,22
+6291470262,Associate's Degree,Female,Portland,33,Q14,Top,23
+6291565832,Bachelor's degree,Female,Portland,44,Q14,Top,24
+6292965151,Doctorate,Female,Portland,38,Q14,Top,25
+6293062574,Some college,Female,Portland,20,Q14,Top,26
+6295509042,High school,Male,Portland,21,Q14,Top,27
+6297754080,Master's degree,Female,Portland,33,Q14,Top,28
+6297937396,Some college,Male,Portland,29,Q14,Top,29
+6310170633,High school,Female,Portland,22,Q14,Top,30
+6310172499,Associate's degree,Male,Portland,30,Q14,Top,31
+6310180520,Bachelor's degree,Male,Portland,36,Q14,Top,32
+6310269697,Bachelor's degree,Female,Portland,27,Q14,Top,33
+6310295361,Associate's degree,Female,Portland,36,Q14,Top,34
+6310344119,Associate's degree,Female,Portland,49,Q14,Top,35
+6310370630,High school,Male,Portland,28,Q14,Top,36
+6310391974,High school,Male,Portland,22,Q14,Top,37
+6310474499,Doctorate,Male,Portland,34,Q14,Top,38
+6310630982,Master's degree,Female,Portland,26,Q14,Tap,39
+6310741488,Bachelor's degree,Female,Portland,27,Q14,Top,40
+6310781628,Associate's degree,Female,Portland,30,Q14,Top,41
+6310817300,Doctorate,Female,Portland,43,Q14,Top,42
+6310943559,Bachelor's degree,Female,Portland,33,Q14,Top,43
+6311071344,Some college,Female,Portland,47,Q14,Top,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q14,Tap,45
+6312143110,Bachelor's degree,Male,Portland,30,Q14,Top,46
+6312378954,High school,Male,Portland,32,Q14,Top,47
+6312455890,Master's degree,Female,Portland,33,Q14,Top,48
+6312895651,Some college,Female,Portland,45,Q14,Top,49
+6312956818,High school,Female,Portland,32,Q14,Top,50
+6313063787,Some college,Female,Portland,28,Q14,Top,51
+6314540779,High school,Female,Portland,34,Q14,Top,52
+6292013523,Some college,Female,Seattle,21,Q14,Top,53
+6292236245,Some college,Male,Seattle,48,Q14,Top,54
+6292385324,High school,Male,Seattle,21,Q14,Top,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q14,Top,56
+6292516891,Some college,Female,Seattle,44,Q14,Top,57
+6293162895,Associate's degree,Female,Seattle,39,Q14,Top,58
+6293299921,Some college,Female,Seattle,70,Q14,Top,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q14,Top,60
+6299984500,Doctorate,Female,Seattle,35,Q14,Top,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q14,Top,62
+6310184853,High school,Female,Seattle,30,Q14,Tap,63
+6310186546,Master's degree,Male,Seattle,41,Q14,Top,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q14,Top,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q14,Top,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q14,Top,67
+6310280357,Some college,Female,Seattle,20,Q14,Top,68
+6310284486,Some college,Female,Seattle,18,Q14,Top,69
+6310415216,High school,Male,Seattle,44,Q14,Top,70
+6310431096,Some college,Female,Seattle,36,Q14,Top,71
+6310454248,High school,Female,Seattle,63,Q14,Top,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q14,Top,73
+6310615011,Some college,Male,Seattle,29,Q14,Top,74
+6310738946,Doctorate,Female,Seattle,30,Q14,Tap,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q14,Top,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q14,Tap,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q14,Top,78
+6310905753,Associate's degree,Male,Seattle,28,Q14,Top,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q14,Top,80
+6311198989,High school,Male,Seattle,39,Q14,Top,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q14,Tap,82
+6312000952,High school,Female,Seattle,31,Q14,Top,83
+6312012291,High school,Female,Seattle,42,Q14,Top,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q14,Top,85
+6312800807,High school,Male,Seattle,51,Q14,Top,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q14,Top,87
+6313716227,High school,Female,Seattle,29,Q14,Top,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q14,Top,89
+6290839372,Doctorate,Male,Bay Area,46,Q15,Top,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q15,Top,2
+6290945951,Some college,Male,Bay Area,34,Q15,Top,3
+6290993154,Master's degree,Male,Bay Area,36,Q15,Tap,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q15,Top,5
+6291787842,Doctorate,Female,Bay Area,40,Q15,Top,6
+6292555973,High school,Female,Bay Area,21,Q15,Top,7
+6292918132,Master's degree,Male,Bay Area,36,Q15,Top,8
+6293235540,Master's degree,Female,Bay Area,28,Q15,Top,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q15,Top,10
+6295443348,Doctorate,Male,Bay Area,70,Q15,Tap,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q15,Top,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q15,Top,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q15,Tap,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q15,Top,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q15,Top,16
+6303234615,Doctorate,Female,Bay Area,36,Q15,Top,17
+6290830262,Bachelor's degree,Female,Portland,36,Q15,Top,18
+6290840132,Master's degree,Male,Portland,26,Q15,Top,19
+6290890699,Master's degree,Female,Portland,35,Q15,Top,20
+6290925844,Bachelor's degree,Female,Portland,25,Q15,Top,21
+6291379727,High school,Male,Portland,44,Q15,Top,22
+6291470262,Associate's Degree,Female,Portland,33,Q15,Top,23
+6291565832,Bachelor's degree,Female,Portland,44,Q15,Tap,24
+6292965151,Doctorate,Female,Portland,38,Q15,Top,25
+6293062574,Some college,Female,Portland,20,Q15,Top,26
+6295509042,High school,Male,Portland,21,Q15,Top,27
+6297754080,Master's degree,Female,Portland,33,Q15,Top,28
+6297937396,Some college,Male,Portland,29,Q15,Tap,29
+6310170633,High school,Female,Portland,22,Q15,Top,30
+6310172499,Associate's degree,Male,Portland,30,Q15,Top,31
+6310180520,Bachelor's degree,Male,Portland,36,Q15,Top,32
+6310269697,Bachelor's degree,Female,Portland,27,Q15,Top,33
+6310295361,Associate's degree,Female,Portland,36,Q15,Top,34
+6310344119,Associate's degree,Female,Portland,49,Q15,Top,35
+6310370630,High school,Male,Portland,28,Q15,Top,36
+6310391974,High school,Male,Portland,22,Q15,Top,37
+6310474499,Doctorate,Male,Portland,34,Q15,Top,38
+6310630982,Master's degree,Female,Portland,26,Q15,Tap,39
+6310741488,Bachelor's degree,Female,Portland,27,Q15,Top,40
+6310781628,Associate's degree,Female,Portland,30,Q15,Top,41
+6310817300,Doctorate,Female,Portland,43,Q15,Top,42
+6310943559,Bachelor's degree,Female,Portland,33,Q15,Tap,43
+6311071344,Some college,Female,Portland,47,Q15,Top,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q15,Tap,45
+6312143110,Bachelor's degree,Male,Portland,30,Q15,Top,46
+6312378954,High school,Male,Portland,32,Q15,Top,47
+6312455890,Master's degree,Female,Portland,33,Q15,Top,48
+6312895651,Some college,Female,Portland,45,Q15,Top,49
+6312956818,High school,Female,Portland,32,Q15,Top,50
+6313063787,Some college,Female,Portland,28,Q15,Top,51
+6314540779,High school,Female,Portland,34,Q15,Top,52
+6292013523,Some college,Female,Seattle,21,Q15,Top,53
+6292236245,Some college,Male,Seattle,48,Q15,Top,54
+6292385324,High school,Male,Seattle,21,Q15,Top,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q15,Top,56
+6292516891,Some college,Female,Seattle,44,Q15,Top,57
+6293162895,Associate's degree,Female,Seattle,39,Q15,Top,58
+6293299921,Some college,Female,Seattle,70,Q15,Top,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q15,Top,60
+6299984500,Doctorate,Female,Seattle,35,Q15,Top,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q15,Top,62
+6310184853,High school,Female,Seattle,30,Q15,Tap,63
+6310186546,Master's degree,Male,Seattle,41,Q15,Top,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q15,Top,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q15,Top,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q15,Top,67
+6310280357,Some college,Female,Seattle,20,Q15,Top,68
+6310284486,Some college,Female,Seattle,18,Q15,Top,69
+6310415216,High school,Male,Seattle,44,Q15,Top,70
+6310431096,Some college,Female,Seattle,36,Q15,Top,71
+6310454248,High school,Female,Seattle,63,Q15,Top,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q15,Top,73
+6310615011,Some college,Male,Seattle,29,Q15,Top,74
+6310738946,Doctorate,Female,Seattle,30,Q15,Tap,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q15,Top,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q15,Tap,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q15,Top,78
+6310905753,Associate's degree,Male,Seattle,28,Q15,Top,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q15,Top,80
+6311198989,High school,Male,Seattle,39,Q15,Tap,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q15,Tap,82
+6312000952,High school,Female,Seattle,31,Q15,Tap,83
+6312012291,High school,Female,Seattle,42,Q15,Top,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q15,Top,85
+6312800807,High school,Male,Seattle,51,Q15,Top,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q15,Top,87
+6313716227,High school,Female,Seattle,29,Q15,Top,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q15,Top,89
+6290839372,Doctorate,Male,Bay Area,46,Q16,Top,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q16,Top,2
+6290945951,Some college,Male,Bay Area,34,Q16,Top,3
+6290993154,Master's degree,Male,Bay Area,36,Q16,Tap,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q16,Top,5
+6291787842,Doctorate,Female,Bay Area,40,Q16,Top,6
+6292555973,High school,Female,Bay Area,21,Q16,Top,7
+6292918132,Master's degree,Male,Bay Area,36,Q16,Top,8
+6293235540,Master's degree,Female,Bay Area,28,Q16,Top,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q16,Top,10
+6295443348,Doctorate,Male,Bay Area,70,Q16,Tap,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q16,Top,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q16,Top,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q16,Tap,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q16,Top,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q16,Top,16
+6303234615,Doctorate,Female,Bay Area,36,Q16,Top,17
+6290830262,Bachelor's degree,Female,Portland,36,Q16,Top,18
+6290840132,Master's degree,Male,Portland,26,Q16,Top,19
+6290890699,Master's degree,Female,Portland,35,Q16,Tap,20
+6290925844,Bachelor's degree,Female,Portland,25,Q16,Top,21
+6291379727,High school,Male,Portland,44,Q16,Top,22
+6291470262,Associate's Degree,Female,Portland,33,Q16,Top,23
+6291565832,Bachelor's degree,Female,Portland,44,Q16,Tap,24
+6292965151,Doctorate,Female,Portland,38,Q16,Top,25
+6293062574,Some college,Female,Portland,20,Q16,Top,26
+6295509042,High school,Male,Portland,21,Q16,Tap,27
+6297754080,Master's degree,Female,Portland,33,Q16,Top,28
+6297937396,Some college,Male,Portland,29,Q16,Tap,29
+6310170633,High school,Female,Portland,22,Q16,Tap,30
+6310172499,Associate's degree,Male,Portland,30,Q16,Tap,31
+6310180520,Bachelor's degree,Male,Portland,36,Q16,Top,32
+6310269697,Bachelor's degree,Female,Portland,27,Q16,Top,33
+6310295361,Associate's degree,Female,Portland,36,Q16,Tap,34
+6310344119,Associate's degree,Female,Portland,49,Q16,Top,35
+6310370630,High school,Male,Portland,28,Q16,Tap,36
+6310391974,High school,Male,Portland,22,Q16,Top,37
+6310474499,Doctorate,Male,Portland,34,Q16,Top,38
+6310630982,Master's degree,Female,Portland,26,Q16,Tap,39
+6310741488,Bachelor's degree,Female,Portland,27,Q16,Top,40
+6310781628,Associate's degree,Female,Portland,30,Q16,Top,41
+6310817300,Doctorate,Female,Portland,43,Q16,Tap,42
+6310943559,Bachelor's degree,Female,Portland,33,Q16,Tap,43
+6311071344,Some college,Female,Portland,47,Q16,Top,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q16,Tap,45
+6312143110,Bachelor's degree,Male,Portland,30,Q16,Top,46
+6312378954,High school,Male,Portland,32,Q16,Top,47
+6312455890,Master's degree,Female,Portland,33,Q16,Top,48
+6312895651,Some college,Female,Portland,45,Q16,Top,49
+6312956818,High school,Female,Portland,32,Q16,Top,50
+6313063787,Some college,Female,Portland,28,Q16,Tap,51
+6314540779,High school,Female,Portland,34,Q16,Top,52
+6292013523,Some college,Female,Seattle,21,Q16,Top,53
+6292236245,Some college,Male,Seattle,48,Q16,Top,54
+6292385324,High school,Male,Seattle,21,Q16,Top,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q16,Top,56
+6292516891,Some college,Female,Seattle,44,Q16,Tap,57
+6293162895,Associate's degree,Female,Seattle,39,Q16,Top,58
+6293299921,Some college,Female,Seattle,70,Q16,Top,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q16,Top,60
+6299984500,Doctorate,Female,Seattle,35,Q16,Top,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q16,Top,62
+6310184853,High school,Female,Seattle,30,Q16,Tap,63
+6310186546,Master's degree,Male,Seattle,41,Q16,Top,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q16,Top,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q16,Top,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q16,Top,67
+6310280357,Some college,Female,Seattle,20,Q16,Top,68
+6310284486,Some college,Female,Seattle,18,Q16,Top,69
+6310415216,High school,Male,Seattle,44,Q16,Tap,70
+6310431096,Some college,Female,Seattle,36,Q16,Top,71
+6310454248,High school,Female,Seattle,63,Q16,Top,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q16,Top,73
+6310615011,Some college,Male,Seattle,29,Q16,Top,74
+6310738946,Doctorate,Female,Seattle,30,Q16,Top,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q16,Tap,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q16,Tap,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q16,Top,78
+6310905753,Associate's degree,Male,Seattle,28,Q16,Top,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q16,Top,80
+6311198989,High school,Male,Seattle,39,Q16,Top,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q16,Tap,82
+6312000952,High school,Female,Seattle,31,Q16,Tap,83
+6312012291,High school,Female,Seattle,42,Q16,Top,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q16,Top,85
+6312800807,High school,Male,Seattle,51,Q16,Top,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q16,Top,87
+6313716227,High school,Female,Seattle,29,Q16,Top,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q16,Tap,89
+6290839372,Doctorate,Male,Bay Area,46,Q17,Top,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q17,Top,2
+6290945951,Some college,Male,Bay Area,34,Q17,Top,3
+6290993154,Master's degree,Male,Bay Area,36,Q17,Tap,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q17,Top,5
+6291787842,Doctorate,Female,Bay Area,40,Q17,Top,6
+6292555973,High school,Female,Bay Area,21,Q17,Top,7
+6292918132,Master's degree,Male,Bay Area,36,Q17,Top,8
+6293235540,Master's degree,Female,Bay Area,28,Q17,Top,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q17,Top,10
+6295443348,Doctorate,Male,Bay Area,70,Q17,Tap,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q17,Top,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q17,Tap,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q17,Tap,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q17,Top,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q17,Tap,16
+6303234615,Doctorate,Female,Bay Area,36,Q17,Top,17
+6290830262,Bachelor's degree,Female,Portland,36,Q17,Top,18
+6290840132,Master's degree,Male,Portland,26,Q17,Top,19
+6290890699,Master's degree,Female,Portland,35,Q17,Tap,20
+6290925844,Bachelor's degree,Female,Portland,25,Q17,Tap,21
+6291379727,High school,Male,Portland,44,Q17,Top,22
+6291470262,Associate's Degree,Female,Portland,33,Q17,Top,23
+6291565832,Bachelor's degree,Female,Portland,44,Q17,Tap,24
+6292965151,Doctorate,Female,Portland,38,Q17,Top,25
+6293062574,Some college,Female,Portland,20,Q17,Top,26
+6295509042,High school,Male,Portland,21,Q17,Tap,27
+6297754080,Master's degree,Female,Portland,33,Q17,Top,28
+6297937396,Some college,Male,Portland,29,Q17,Tap,29
+6310170633,High school,Female,Portland,22,Q17,Tap,30
+6310172499,Associate's degree,Male,Portland,30,Q17,Tap,31
+6310180520,Bachelor's degree,Male,Portland,36,Q17,Tap,32
+6310269697,Bachelor's degree,Female,Portland,27,Q17,Tap,33
+6310295361,Associate's degree,Female,Portland,36,Q17,Tap,34
+6310344119,Associate's degree,Female,Portland,49,Q17,Tap,35
+6310370630,High school,Male,Portland,28,Q17,Tap,36
+6310391974,High school,Male,Portland,22,Q17,Top,37
+6310474499,Doctorate,Male,Portland,34,Q17,Top,38
+6310630982,Master's degree,Female,Portland,26,Q17,Tap,39
+6310741488,Bachelor's degree,Female,Portland,27,Q17,Tap,40
+6310781628,Associate's degree,Female,Portland,30,Q17,Top,41
+6310817300,Doctorate,Female,Portland,43,Q17,Tap,42
+6310943559,Bachelor's degree,Female,Portland,33,Q17,Tap,43
+6311071344,Some college,Female,Portland,47,Q17,Top,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q17,Tap,45
+6312143110,Bachelor's degree,Male,Portland,30,Q17,Top,46
+6312378954,High school,Male,Portland,32,Q17,Top,47
+6312455890,Master's degree,Female,Portland,33,Q17,Top,48
+6312895651,Some college,Female,Portland,45,Q17,Top,49
+6312956818,High school,Female,Portland,32,Q17,Top,50
+6313063787,Some college,Female,Portland,28,Q17,Tap,51
+6314540779,High school,Female,Portland,34,Q17,Tap,52
+6292013523,Some college,Female,Seattle,21,Q17,Top,53
+6292236245,Some college,Male,Seattle,48,Q17,Top,54
+6292385324,High school,Male,Seattle,21,Q17,Top,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q17,Top,56
+6292516891,Some college,Female,Seattle,44,Q17,Top,57
+6293162895,Associate's degree,Female,Seattle,39,Q17,Top,58
+6293299921,Some college,Female,Seattle,70,Q17,Top,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q17,Top,60
+6299984500,Doctorate,Female,Seattle,35,Q17,Top,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q17,Top,62
+6310184853,High school,Female,Seattle,30,Q17,Tap,63
+6310186546,Master's degree,Male,Seattle,41,Q17,Top,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q17,Top,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q17,Top,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q17,Top,67
+6310280357,Some college,Female,Seattle,20,Q17,Top,68
+6310284486,Some college,Female,Seattle,18,Q17,Top,69
+6310415216,High school,Male,Seattle,44,Q17,Tap,70
+6310431096,Some college,Female,Seattle,36,Q17,Tap,71
+6310454248,High school,Female,Seattle,63,Q17,Tap,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q17,Top,73
+6310615011,Some college,Male,Seattle,29,Q17,Top,74
+6310738946,Doctorate,Female,Seattle,30,Q17,Top,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q17,Tap,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q17,Tap,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q17,Top,78
+6310905753,Associate's degree,Male,Seattle,28,Q17,Top,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q17,Top,80
+6311198989,High school,Male,Seattle,39,Q17,Tap,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q17,Tap,82
+6312000952,High school,Female,Seattle,31,Q17,Tap,83
+6312012291,High school,Female,Seattle,42,Q17,Top,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q17,Top,85
+6312800807,High school,Male,Seattle,51,Q17,Tap,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q17,Top,87
+6313716227,High school,Female,Seattle,29,Q17,Top,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q17,Tap,89
+6290839372,Doctorate,Male,Bay Area,46,Q18,Top,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q18,Top,2
+6290945951,Some college,Male,Bay Area,34,Q18,Top,3
+6290993154,Master's degree,Male,Bay Area,36,Q18,Tap,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q18,Top,5
+6291787842,Doctorate,Female,Bay Area,40,Q18,Top,6
+6292555973,High school,Female,Bay Area,21,Q18,Top,7
+6292918132,Master's degree,Male,Bay Area,36,Q18,Top,8
+6293235540,Master's degree,Female,Bay Area,28,Q18,Top,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q18,Top,10
+6295443348,Doctorate,Male,Bay Area,70,Q18,Tap,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q18,Top,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q18,Tap,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q18,Tap,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q18,Top,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q18,Tap,16
+6303234615,Doctorate,Female,Bay Area,36,Q18,Top,17
+6290830262,Bachelor's degree,Female,Portland,36,Q18,Top,18
+6290840132,Master's degree,Male,Portland,26,Q18,Top,19
+6290890699,Master's degree,Female,Portland,35,Q18,Top,20
+6290925844,Bachelor's degree,Female,Portland,25,Q18,Top,21
+6291379727,High school,Male,Portland,44,Q18,Top,22
+6291470262,Associate's Degree,Female,Portland,33,Q18,Top,23
+6291565832,Bachelor's degree,Female,Portland,44,Q18,Top,24
+6292965151,Doctorate,Female,Portland,38,Q18,Top,25
+6293062574,Some college,Female,Portland,20,Q18,Top,26
+6295509042,High school,Male,Portland,21,Q18,Tap,27
+6297754080,Master's degree,Female,Portland,33,Q18,Top,28
+6297937396,Some college,Male,Portland,29,Q18,Tap,29
+6310170633,High school,Female,Portland,22,Q18,Tap,30
+6310172499,Associate's degree,Male,Portland,30,Q18,Tap,31
+6310180520,Bachelor's degree,Male,Portland,36,Q18,Tap,32
+6310269697,Bachelor's degree,Female,Portland,27,Q18,Top,33
+6310295361,Associate's degree,Female,Portland,36,Q18,Top,34
+6310344119,Associate's degree,Female,Portland,49,Q18,Tap,35
+6310370630,High school,Male,Portland,28,Q18,Tap,36
+6310391974,High school,Male,Portland,22,Q18,Top,37
+6310474499,Doctorate,Male,Portland,34,Q18,Top,38
+6310630982,Master's degree,Female,Portland,26,Q18,Tap,39
+6310741488,Bachelor's degree,Female,Portland,27,Q18,Tap,40
+6310781628,Associate's degree,Female,Portland,30,Q18,Top,41
+6310817300,Doctorate,Female,Portland,43,Q18,Tap,42
+6310943559,Bachelor's degree,Female,Portland,33,Q18,Tap,43
+6311071344,Some college,Female,Portland,47,Q18,Top,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q18,Tap,45
+6312143110,Bachelor's degree,Male,Portland,30,Q18,Top,46
+6312378954,High school,Male,Portland,32,Q18,Top,47
+6312455890,Master's degree,Female,Portland,33,Q18,Top,48
+6312895651,Some college,Female,Portland,45,Q18,Top,49
+6312956818,High school,Female,Portland,32,Q18,Top,50
+6313063787,Some college,Female,Portland,28,Q18,Tap,51
+6314540779,High school,Female,Portland,34,Q18,Top,52
+6292013523,Some college,Female,Seattle,21,Q18,Top,53
+6292236245,Some college,Male,Seattle,48,Q18,Top,54
+6292385324,High school,Male,Seattle,21,Q18,Top,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q18,Top,56
+6292516891,Some college,Female,Seattle,44,Q18,Tap,57
+6293162895,Associate's degree,Female,Seattle,39,Q18,Top,58
+6293299921,Some college,Female,Seattle,70,Q18,Tap,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q18,Top,60
+6299984500,Doctorate,Female,Seattle,35,Q18,Top,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q18,Top,62
+6310184853,High school,Female,Seattle,30,Q18,Tap,63
+6310186546,Master's degree,Male,Seattle,41,Q18,Top,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q18,Top,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q18,Top,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q18,Top,67
+6310280357,Some college,Female,Seattle,20,Q18,Top,68
+6310284486,Some college,Female,Seattle,18,Q18,Top,69
+6310415216,High school,Male,Seattle,44,Q18,Tap,70
+6310431096,Some college,Female,Seattle,36,Q18,Tap,71
+6310454248,High school,Female,Seattle,63,Q18,Tap,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q18,Top,73
+6310615011,Some college,Male,Seattle,29,Q18,Top,74
+6310738946,Doctorate,Female,Seattle,30,Q18,Top,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q18,Top,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q18,Tap,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q18,Tap,78
+6310905753,Associate's degree,Male,Seattle,28,Q18,Top,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q18,Top,80
+6311198989,High school,Male,Seattle,39,Q18,Tap,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q18,Tap,82
+6312000952,High school,Female,Seattle,31,Q18,Tap,83
+6312012291,High school,Female,Seattle,42,Q18,Top,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q18,Top,85
+6312800807,High school,Male,Seattle,51,Q18,Tap,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q18,Top,87
+6313716227,High school,Female,Seattle,29,Q18,Top,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q18,Tap,89
+6290839372,Doctorate,Male,Bay Area,46,Q19,Top,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q19,Top,2
+6290945951,Some college,Male,Bay Area,34,Q19,Top,3
+6290993154,Master's degree,Male,Bay Area,36,Q19,Top,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q19,Top,5
+6291787842,Doctorate,Female,Bay Area,40,Q19,Top,6
+6292555973,High school,Female,Bay Area,21,Q19,Top,7
+6292918132,Master's degree,Male,Bay Area,36,Q19,Top,8
+6293235540,Master's degree,Female,Bay Area,28,Q19,Top,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q19,Top,10
+6295443348,Doctorate,Male,Bay Area,70,Q19,Tap,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q19,Top,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q19,Top,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q19,Top,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q19,Top,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q19,Top,16
+6303234615,Doctorate,Female,Bay Area,36,Q19,Top,17
+6290830262,Bachelor's degree,Female,Portland,36,Q19,Top,18
+6290840132,Master's degree,Male,Portland,26,Q19,Top,19
+6290890699,Master's degree,Female,Portland,35,Q19,Top,20
+6290925844,Bachelor's degree,Female,Portland,25,Q19,Top,21
+6291379727,High school,Male,Portland,44,Q19,Top,22
+6291470262,Associate's Degree,Female,Portland,33,Q19,Top,23
+6291565832,Bachelor's degree,Female,Portland,44,Q19,Top,24
+6292965151,Doctorate,Female,Portland,38,Q19,Top,25
+6293062574,Some college,Female,Portland,20,Q19,Top,26
+6295509042,High school,Male,Portland,21,Q19,Top,27
+6297754080,Master's degree,Female,Portland,33,Q19,Top,28
+6297937396,Some college,Male,Portland,29,Q19,Top,29
+6310170633,High school,Female,Portland,22,Q19,Top,30
+6310172499,Associate's degree,Male,Portland,30,Q19,Top,31
+6310180520,Bachelor's degree,Male,Portland,36,Q19,Top,32
+6310269697,Bachelor's degree,Female,Portland,27,Q19,Top,33
+6310295361,Associate's degree,Female,Portland,36,Q19,Top,34
+6310344119,Associate's degree,Female,Portland,49,Q19,Top,35
+6310370630,High school,Male,Portland,28,Q19,Top,36
+6310391974,High school,Male,Portland,22,Q19,Top,37
+6310474499,Doctorate,Male,Portland,34,Q19,Top,38
+6310630982,Master's degree,Female,Portland,26,Q19,Tap,39
+6310741488,Bachelor's degree,Female,Portland,27,Q19,Top,40
+6310781628,Associate's degree,Female,Portland,30,Q19,Top,41
+6310817300,Doctorate,Female,Portland,43,Q19,Top,42
+6310943559,Bachelor's degree,Female,Portland,33,Q19,Top,43
+6311071344,Some college,Female,Portland,47,Q19,Top,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q19,Top,45
+6312143110,Bachelor's degree,Male,Portland,30,Q19,Top,46
+6312378954,High school,Male,Portland,32,Q19,Top,47
+6312455890,Master's degree,Female,Portland,33,Q19,Top,48
+6312895651,Some college,Female,Portland,45,Q19,Top,49
+6312956818,High school,Female,Portland,32,Q19,Top,50
+6313063787,Some college,Female,Portland,28,Q19,Top,51
+6314540779,High school,Female,Portland,34,Q19,Top,52
+6292013523,Some college,Female,Seattle,21,Q19,Top,53
+6292236245,Some college,Male,Seattle,48,Q19,Top,54
+6292385324,High school,Male,Seattle,21,Q19,Top,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q19,Top,56
+6292516891,Some college,Female,Seattle,44,Q19,Top,57
+6293162895,Associate's degree,Female,Seattle,39,Q19,Top,58
+6293299921,Some college,Female,Seattle,70,Q19,Top,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q19,Top,60
+6299984500,Doctorate,Female,Seattle,35,Q19,Top,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q19,Top,62
+6310184853,High school,Female,Seattle,30,Q19,Tap,63
+6310186546,Master's degree,Male,Seattle,41,Q19,Top,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q19,Top,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q19,Top,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q19,Top,67
+6310280357,Some college,Female,Seattle,20,Q19,Top,68
+6310284486,Some college,Female,Seattle,18,Q19,Top,69
+6310415216,High school,Male,Seattle,44,Q19,Top,70
+6310431096,Some college,Female,Seattle,36,Q19,Top,71
+6310454248,High school,Female,Seattle,63,Q19,Top,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q19,Top,73
+6310615011,Some college,Male,Seattle,29,Q19,Top,74
+6310738946,Doctorate,Female,Seattle,30,Q19,Top,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q19,Tap,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q19,Top,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q19,Top,78
+6310905753,Associate's degree,Male,Seattle,28,Q19,Top,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q19,Top,80
+6311198989,High school,Male,Seattle,39,Q19,Top,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q19,Top,82
+6312000952,High school,Female,Seattle,31,Q19,Top,83
+6312012291,High school,Female,Seattle,42,Q19,Top,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q19,Top,85
+6312800807,High school,Male,Seattle,51,Q19,Top,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q19,Top,87
+6313716227,High school,Female,Seattle,29,Q19,Top,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q19,Top,89
+6290839372,Doctorate,Male,Bay Area,46,Q20,Top,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q20,Top,2
+6290945951,Some college,Male,Bay Area,34,Q20,Top,3
+6290993154,Master's degree,Male,Bay Area,36,Q20,Top,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q20,Top,5
+6291787842,Doctorate,Female,Bay Area,40,Q20,Top,6
+6292555973,High school,Female,Bay Area,21,Q20,Top,7
+6292918132,Master's degree,Male,Bay Area,36,Q20,Top,8
+6293235540,Master's degree,Female,Bay Area,28,Q20,Top,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q20,Top,10
+6295443348,Doctorate,Male,Bay Area,70,Q20,Tap,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q20,Top,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q20,Top,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q20,Top,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q20,Top,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q20,Top,16
+6303234615,Doctorate,Female,Bay Area,36,Q20,Top,17
+6290830262,Bachelor's degree,Female,Portland,36,Q20,Top,18
+6290840132,Master's degree,Male,Portland,26,Q20,Top,19
+6290890699,Master's degree,Female,Portland,35,Q20,Top,20
+6290925844,Bachelor's degree,Female,Portland,25,Q20,Top,21
+6291379727,High school,Male,Portland,44,Q20,Top,22
+6291470262,Associate's Degree,Female,Portland,33,Q20,Top,23
+6291565832,Bachelor's degree,Female,Portland,44,Q20,Top,24
+6292965151,Doctorate,Female,Portland,38,Q20,Top,25
+6293062574,Some college,Female,Portland,20,Q20,Top,26
+6295509042,High school,Male,Portland,21,Q20,Tap,27
+6297754080,Master's degree,Female,Portland,33,Q20,Top,28
+6297937396,Some college,Male,Portland,29,Q20,Top,29
+6310170633,High school,Female,Portland,22,Q20,Tap,30
+6310172499,Associate's degree,Male,Portland,30,Q20,Top,31
+6310180520,Bachelor's degree,Male,Portland,36,Q20,Top,32
+6310269697,Bachelor's degree,Female,Portland,27,Q20,Top,33
+6310295361,Associate's degree,Female,Portland,36,Q20,Top,34
+6310344119,Associate's degree,Female,Portland,49,Q20,Top,35
+6310370630,High school,Male,Portland,28,Q20,Tap,36
+6310391974,High school,Male,Portland,22,Q20,Top,37
+6310474499,Doctorate,Male,Portland,34,Q20,Top,38
+6310630982,Master's degree,Female,Portland,26,Q20,Tap,39
+6310741488,Bachelor's degree,Female,Portland,27,Q20,Top,40
+6310781628,Associate's degree,Female,Portland,30,Q20,Top,41
+6310817300,Doctorate,Female,Portland,43,Q20,Top,42
+6310943559,Bachelor's degree,Female,Portland,33,Q20,Top,43
+6311071344,Some college,Female,Portland,47,Q20,Top,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q20,Top,45
+6312143110,Bachelor's degree,Male,Portland,30,Q20,Top,46
+6312378954,High school,Male,Portland,32,Q20,Top,47
+6312455890,Master's degree,Female,Portland,33,Q20,Top,48
+6312895651,Some college,Female,Portland,45,Q20,Top,49
+6312956818,High school,Female,Portland,32,Q20,Top,50
+6313063787,Some college,Female,Portland,28,Q20,Top,51
+6314540779,High school,Female,Portland,34,Q20,Tap,52
+6292013523,Some college,Female,Seattle,21,Q20,Top,53
+6292236245,Some college,Male,Seattle,48,Q20,Top,54
+6292385324,High school,Male,Seattle,21,Q20,Top,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q20,Top,56
+6292516891,Some college,Female,Seattle,44,Q20,Top,57
+6293162895,Associate's degree,Female,Seattle,39,Q20,Top,58
+6293299921,Some college,Female,Seattle,70,Q20,Top,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q20,Top,60
+6299984500,Doctorate,Female,Seattle,35,Q20,Top,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q20,Top,62
+6310184853,High school,Female,Seattle,30,Q20,Tap,63
+6310186546,Master's degree,Male,Seattle,41,Q20,Top,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q20,Top,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q20,Top,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q20,Top,67
+6310280357,Some college,Female,Seattle,20,Q20,Top,68
+6310284486,Some college,Female,Seattle,18,Q20,Top,69
+6310415216,High school,Male,Seattle,44,Q20,Tap,70
+6310431096,Some college,Female,Seattle,36,Q20,Top,71
+6310454248,High school,Female,Seattle,63,Q20,Top,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q20,Top,73
+6310615011,Some college,Male,Seattle,29,Q20,Top,74
+6310738946,Doctorate,Female,Seattle,30,Q20,Top,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q20,Top,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q20,Tap,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q20,Top,78
+6310905753,Associate's degree,Male,Seattle,28,Q20,Top,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q20,Top,80
+6311198989,High school,Male,Seattle,39,Q20,Top,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q20,Top,82
+6312000952,High school,Female,Seattle,31,Q20,Top,83
+6312012291,High school,Female,Seattle,42,Q20,Top,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q20,Top,85
+6312800807,High school,Male,Seattle,51,Q20,Top,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q20,Top,87
+6313716227,High school,Female,Seattle,29,Q20,Top,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q20,Top,89
+6290839372,Doctorate,Male,Bay Area,46,Q21,Top,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q21,Top,2
+6290945951,Some college,Male,Bay Area,34,Q21,Top,3
+6290993154,Master's degree,Male,Bay Area,36,Q21,Tap,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q21,Top,5
+6291787842,Doctorate,Female,Bay Area,40,Q21,Top,6
+6292555973,High school,Female,Bay Area,21,Q21,Top,7
+6292918132,Master's degree,Male,Bay Area,36,Q21,Top,8
+6293235540,Master's degree,Female,Bay Area,28,Q21,Top,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q21,Top,10
+6295443348,Doctorate,Male,Bay Area,70,Q21,Tap,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q21,Top,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q21,Top,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q21,Top,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q21,Top,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q21,Top,16
+6303234615,Doctorate,Female,Bay Area,36,Q21,Top,17
+6290830262,Bachelor's degree,Female,Portland,36,Q21,Top,18
+6290840132,Master's degree,Male,Portland,26,Q21,Top,19
+6290890699,Master's degree,Female,Portland,35,Q21,Top,20
+6290925844,Bachelor's degree,Female,Portland,25,Q21,Top,21
+6291379727,High school,Male,Portland,44,Q21,Top,22
+6291470262,Associate's Degree,Female,Portland,33,Q21,Top,23
+6291565832,Bachelor's degree,Female,Portland,44,Q21,Top,24
+6292965151,Doctorate,Female,Portland,38,Q21,Top,25
+6293062574,Some college,Female,Portland,20,Q21,Top,26
+6295509042,High school,Male,Portland,21,Q21,Top,27
+6297754080,Master's degree,Female,Portland,33,Q21,Top,28
+6297937396,Some college,Male,Portland,29,Q21,Tap,29
+6310170633,High school,Female,Portland,22,Q21,Tap,30
+6310172499,Associate's degree,Male,Portland,30,Q21,Top,31
+6310180520,Bachelor's degree,Male,Portland,36,Q21,Top,32
+6310269697,Bachelor's degree,Female,Portland,27,Q21,Top,33
+6310295361,Associate's degree,Female,Portland,36,Q21,Top,34
+6310344119,Associate's degree,Female,Portland,49,Q21,Top,35
+6310370630,High school,Male,Portland,28,Q21,Tap,36
+6310391974,High school,Male,Portland,22,Q21,Top,37
+6310474499,Doctorate,Male,Portland,34,Q21,Top,38
+6310630982,Master's degree,Female,Portland,26,Q21,Tap,39
+6310741488,Bachelor's degree,Female,Portland,27,Q21,Top,40
+6310781628,Associate's degree,Female,Portland,30,Q21,Top,41
+6310817300,Doctorate,Female,Portland,43,Q21,Top,42
+6310943559,Bachelor's degree,Female,Portland,33,Q21,Top,43
+6311071344,Some college,Female,Portland,47,Q21,Top,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q21,Top,45
+6312143110,Bachelor's degree,Male,Portland,30,Q21,Top,46
+6312378954,High school,Male,Portland,32,Q21,Top,47
+6312455890,Master's degree,Female,Portland,33,Q21,Top,48
+6312895651,Some college,Female,Portland,45,Q21,Top,49
+6312956818,High school,Female,Portland,32,Q21,Top,50
+6313063787,Some college,Female,Portland,28,Q21,Top,51
+6314540779,High school,Female,Portland,34,Q21,Top,52
+6292013523,Some college,Female,Seattle,21,Q21,Top,53
+6292236245,Some college,Male,Seattle,48,Q21,Top,54
+6292385324,High school,Male,Seattle,21,Q21,Top,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q21,Top,56
+6292516891,Some college,Female,Seattle,44,Q21,Top,57
+6293162895,Associate's degree,Female,Seattle,39,Q21,Top,58
+6293299921,Some college,Female,Seattle,70,Q21,Top,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q21,Top,60
+6299984500,Doctorate,Female,Seattle,35,Q21,Top,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q21,Top,62
+6310184853,High school,Female,Seattle,30,Q21,Tap,63
+6310186546,Master's degree,Male,Seattle,41,Q21,Top,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q21,Top,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q21,Top,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q21,Top,67
+6310280357,Some college,Female,Seattle,20,Q21,Top,68
+6310284486,Some college,Female,Seattle,18,Q21,Top,69
+6310415216,High school,Male,Seattle,44,Q21,Top,70
+6310431096,Some college,Female,Seattle,36,Q21,Top,71
+6310454248,High school,Female,Seattle,63,Q21,Top,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q21,Top,73
+6310615011,Some college,Male,Seattle,29,Q21,Top,74
+6310738946,Doctorate,Female,Seattle,30,Q21,Top,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q21,Tap,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q21,Tap,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q21,Top,78
+6310905753,Associate's degree,Male,Seattle,28,Q21,Top,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q21,Top,80
+6311198989,High school,Male,Seattle,39,Q21,Tap,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q21,Top,82
+6312000952,High school,Female,Seattle,31,Q21,Tap,83
+6312012291,High school,Female,Seattle,42,Q21,Top,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q21,Top,85
+6312800807,High school,Male,Seattle,51,Q21,Tap,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q21,Top,87
+6313716227,High school,Female,Seattle,29,Q21,Top,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q21,Top,89
+6290839372,Doctorate,Male,Bay Area,46,Q22,Top,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q22,Top,2
+6290945951,Some college,Male,Bay Area,34,Q22,Top,3
+6290993154,Master's degree,Male,Bay Area,36,Q22,Top,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q22,Top,5
+6291787842,Doctorate,Female,Bay Area,40,Q22,Top,6
+6292555973,High school,Female,Bay Area,21,Q22,Top,7
+6292918132,Master's degree,Male,Bay Area,36,Q22,Top,8
+6293235540,Master's degree,Female,Bay Area,28,Q22,Top,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q22,Top,10
+6295443348,Doctorate,Male,Bay Area,70,Q22,Tap,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q22,Top,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q22,Top,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q22,Tap,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q22,Top,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q22,Tap,16
+6303234615,Doctorate,Female,Bay Area,36,Q22,Top,17
+6290830262,Bachelor's degree,Female,Portland,36,Q22,Top,18
+6290840132,Master's degree,Male,Portland,26,Q22,Top,19
+6290890699,Master's degree,Female,Portland,35,Q22,Tap,20
+6290925844,Bachelor's degree,Female,Portland,25,Q22,Top,21
+6291379727,High school,Male,Portland,44,Q22,Top,22
+6291470262,Associate's Degree,Female,Portland,33,Q22,Top,23
+6291565832,Bachelor's degree,Female,Portland,44,Q22,Top,24
+6292965151,Doctorate,Female,Portland,38,Q22,Top,25
+6293062574,Some college,Female,Portland,20,Q22,Top,26
+6295509042,High school,Male,Portland,21,Q22,Tap,27
+6297754080,Master's degree,Female,Portland,33,Q22,Top,28
+6297937396,Some college,Male,Portland,29,Q22,Tap,29
+6310170633,High school,Female,Portland,22,Q22,Tap,30
+6310172499,Associate's degree,Male,Portland,30,Q22,Top,31
+6310180520,Bachelor's degree,Male,Portland,36,Q22,Tap,32
+6310269697,Bachelor's degree,Female,Portland,27,Q22,Top,33
+6310295361,Associate's degree,Female,Portland,36,Q22,Top,34
+6310344119,Associate's degree,Female,Portland,49,Q22,Tap,35
+6310370630,High school,Male,Portland,28,Q22,Tap,36
+6310391974,High school,Male,Portland,22,Q22,Top,37
+6310474499,Doctorate,Male,Portland,34,Q22,Top,38
+6310630982,Master's degree,Female,Portland,26,Q22,Tap,39
+6310741488,Bachelor's degree,Female,Portland,27,Q22,Top,40
+6310781628,Associate's degree,Female,Portland,30,Q22,Top,41
+6310817300,Doctorate,Female,Portland,43,Q22,Top,42
+6310943559,Bachelor's degree,Female,Portland,33,Q22,Top,43
+6311071344,Some college,Female,Portland,47,Q22,Top,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q22,Top,45
+6312143110,Bachelor's degree,Male,Portland,30,Q22,Top,46
+6312378954,High school,Male,Portland,32,Q22,Top,47
+6312455890,Master's degree,Female,Portland,33,Q22,Top,48
+6312895651,Some college,Female,Portland,45,Q22,Top,49
+6312956818,High school,Female,Portland,32,Q22,Top,50
+6313063787,Some college,Female,Portland,28,Q22,Top,51
+6314540779,High school,Female,Portland,34,Q22,Top,52
+6292013523,Some college,Female,Seattle,21,Q22,Top,53
+6292236245,Some college,Male,Seattle,48,Q22,Top,54
+6292385324,High school,Male,Seattle,21,Q22,Top,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q22,Top,56
+6292516891,Some college,Female,Seattle,44,Q22,Top,57
+6293162895,Associate's degree,Female,Seattle,39,Q22,Top,58
+6293299921,Some college,Female,Seattle,70,Q22,Top,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q22,Top,60
+6299984500,Doctorate,Female,Seattle,35,Q22,Top,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q22,Top,62
+6310184853,High school,Female,Seattle,30,Q22,Tap,63
+6310186546,Master's degree,Male,Seattle,41,Q22,Top,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q22,Top,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q22,Top,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q22,Top,67
+6310280357,Some college,Female,Seattle,20,Q22,Top,68
+6310284486,Some college,Female,Seattle,18,Q22,Top,69
+6310415216,High school,Male,Seattle,44,Q22,Tap,70
+6310431096,Some college,Female,Seattle,36,Q22,Top,71
+6310454248,High school,Female,Seattle,63,Q22,Top,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q22,Top,73
+6310615011,Some college,Male,Seattle,29,Q22,Top,74
+6310738946,Doctorate,Female,Seattle,30,Q22,Top,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q22,Tap,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q22,Tap,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q22,Top,78
+6310905753,Associate's degree,Male,Seattle,28,Q22,Top,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q22,Top,80
+6311198989,High school,Male,Seattle,39,Q22,Tap,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q22,Top,82
+6312000952,High school,Female,Seattle,31,Q22,Tap,83
+6312012291,High school,Female,Seattle,42,Q22,Top,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q22,Top,85
+6312800807,High school,Male,Seattle,51,Q22,Tap,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q22,Top,87
+6313716227,High school,Female,Seattle,29,Q22,Top,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q22,Tap,89
+6290839372,Doctorate,Male,Bay Area,46,Q23,Top,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q23,Top,2
+6290945951,Some college,Male,Bay Area,34,Q23,Top,3
+6290993154,Master's degree,Male,Bay Area,36,Q23,Top,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q23,Top,5
+6291787842,Doctorate,Female,Bay Area,40,Q23,Top,6
+6292555973,High school,Female,Bay Area,21,Q23,Top,7
+6292918132,Master's degree,Male,Bay Area,36,Q23,Top,8
+6293235540,Master's degree,Female,Bay Area,28,Q23,Top,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q23,Top,10
+6295443348,Doctorate,Male,Bay Area,70,Q23,Tap,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q23,Top,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q23,Tap,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q23,Top,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q23,Top,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q23,Top,16
+6303234615,Doctorate,Female,Bay Area,36,Q23,Top,17
+6290830262,Bachelor's degree,Female,Portland,36,Q23,Top,18
+6290840132,Master's degree,Male,Portland,26,Q23,Top,19
+6290890699,Master's degree,Female,Portland,35,Q23,Tap,20
+6290925844,Bachelor's degree,Female,Portland,25,Q23,Top,21
+6291379727,High school,Male,Portland,44,Q23,Top,22
+6291470262,Associate's Degree,Female,Portland,33,Q23,Top,23
+6291565832,Bachelor's degree,Female,Portland,44,Q23,Top,24
+6292965151,Doctorate,Female,Portland,38,Q23,Top,25
+6293062574,Some college,Female,Portland,20,Q23,Top,26
+6295509042,High school,Male,Portland,21,Q23,Tap,27
+6297754080,Master's degree,Female,Portland,33,Q23,Top,28
+6297937396,Some college,Male,Portland,29,Q23,Tap,29
+6310170633,High school,Female,Portland,22,Q23,Tap,30
+6310172499,Associate's degree,Male,Portland,30,Q23,Top,31
+6310180520,Bachelor's degree,Male,Portland,36,Q23,Tap,32
+6310269697,Bachelor's degree,Female,Portland,27,Q23,Top,33
+6310295361,Associate's degree,Female,Portland,36,Q23,Top,34
+6310344119,Associate's degree,Female,Portland,49,Q23,Tap,35
+6310370630,High school,Male,Portland,28,Q23,Top,36
+6310391974,High school,Male,Portland,22,Q23,Top,37
+6310474499,Doctorate,Male,Portland,34,Q23,Top,38
+6310630982,Master's degree,Female,Portland,26,Q23,Tap,39
+6310741488,Bachelor's degree,Female,Portland,27,Q23,Tap,40
+6310781628,Associate's degree,Female,Portland,30,Q23,Top,41
+6310817300,Doctorate,Female,Portland,43,Q23,Top,42
+6310943559,Bachelor's degree,Female,Portland,33,Q23,Top,43
+6311071344,Some college,Female,Portland,47,Q23,Top,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q23,Tap,45
+6312143110,Bachelor's degree,Male,Portland,30,Q23,Top,46
+6312378954,High school,Male,Portland,32,Q23,Top,47
+6312455890,Master's degree,Female,Portland,33,Q23,Top,48
+6312895651,Some college,Female,Portland,45,Q23,Top,49
+6312956818,High school,Female,Portland,32,Q23,Top,50
+6313063787,Some college,Female,Portland,28,Q23,Tap,51
+6314540779,High school,Female,Portland,34,Q23,Top,52
+6292013523,Some college,Female,Seattle,21,Q23,Top,53
+6292236245,Some college,Male,Seattle,48,Q23,Top,54
+6292385324,High school,Male,Seattle,21,Q23,Top,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q23,Top,56
+6292516891,Some college,Female,Seattle,44,Q23,Top,57
+6293162895,Associate's degree,Female,Seattle,39,Q23,Top,58
+6293299921,Some college,Female,Seattle,70,Q23,Top,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q23,Top,60
+6299984500,Doctorate,Female,Seattle,35,Q23,Top,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q23,Top,62
+6310184853,High school,Female,Seattle,30,Q23,Tap,63
+6310186546,Master's degree,Male,Seattle,41,Q23,Top,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q23,Top,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q23,Tap,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q23,Top,67
+6310280357,Some college,Female,Seattle,20,Q23,Top,68
+6310284486,Some college,Female,Seattle,18,Q23,Top,69
+6310415216,High school,Male,Seattle,44,Q23,Tap,70
+6310431096,Some college,Female,Seattle,36,Q23,Top,71
+6310454248,High school,Female,Seattle,63,Q23,Top,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q23,Top,73
+6310615011,Some college,Male,Seattle,29,Q23,Top,74
+6310738946,Doctorate,Female,Seattle,30,Q23,Top,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q23,Top,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q23,Tap,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q23,Top,78
+6310905753,Associate's degree,Male,Seattle,28,Q23,Top,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q23,Tap,80
+6311198989,High school,Male,Seattle,39,Q23,Tap,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q23,Top,82
+6312000952,High school,Female,Seattle,31,Q23,Tap,83
+6312012291,High school,Female,Seattle,42,Q23,Top,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q23,Top,85
+6312800807,High school,Male,Seattle,51,Q23,Top,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q23,Top,87
+6313716227,High school,Female,Seattle,29,Q23,Top,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q23,Tap,89
+6290839372,Doctorate,Male,Bay Area,46,Q24,Top,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q24,Top,2
+6290945951,Some college,Male,Bay Area,34,Q24,Top,3
+6290993154,Master's degree,Male,Bay Area,36,Q24,Tap,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q24,Top,5
+6291787842,Doctorate,Female,Bay Area,40,Q24,Top,6
+6292555973,High school,Female,Bay Area,21,Q24,Top,7
+6292918132,Master's degree,Male,Bay Area,36,Q24,Top,8
+6293235540,Master's degree,Female,Bay Area,28,Q24,Top,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q24,Top,10
+6295443348,Doctorate,Male,Bay Area,70,Q24,Tap,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q24,Top,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q24,Tap,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q24,Top,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q24,Top,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q24,Top,16
+6303234615,Doctorate,Female,Bay Area,36,Q24,Top,17
+6290830262,Bachelor's degree,Female,Portland,36,Q24,Top,18
+6290840132,Master's degree,Male,Portland,26,Q24,Top,19
+6290890699,Master's degree,Female,Portland,35,Q24,Tap,20
+6290925844,Bachelor's degree,Female,Portland,25,Q24,Tap,21
+6291379727,High school,Male,Portland,44,Q24,Tap,22
+6291470262,Associate's Degree,Female,Portland,33,Q24,Top,23
+6291565832,Bachelor's degree,Female,Portland,44,Q24,Top,24
+6292965151,Doctorate,Female,Portland,38,Q24,Top,25
+6293062574,Some college,Female,Portland,20,Q24,Top,26
+6295509042,High school,Male,Portland,21,Q24,Tap,27
+6297754080,Master's degree,Female,Portland,33,Q24,Top,28
+6297937396,Some college,Male,Portland,29,Q24,Tap,29
+6310170633,High school,Female,Portland,22,Q24,Top,30
+6310172499,Associate's degree,Male,Portland,30,Q24,Tap,31
+6310180520,Bachelor's degree,Male,Portland,36,Q24,Tap,32
+6310269697,Bachelor's degree,Female,Portland,27,Q24,Top,33
+6310295361,Associate's degree,Female,Portland,36,Q24,Top,34
+6310344119,Associate's degree,Female,Portland,49,Q24,Tap,35
+6310370630,High school,Male,Portland,28,Q24,Tap,36
+6310391974,High school,Male,Portland,22,Q24,Top,37
+6310474499,Doctorate,Male,Portland,34,Q24,Top,38
+6310630982,Master's degree,Female,Portland,26,Q24,Tap,39
+6310741488,Bachelor's degree,Female,Portland,27,Q24,Tap,40
+6310781628,Associate's degree,Female,Portland,30,Q24,Top,41
+6310817300,Doctorate,Female,Portland,43,Q24,Top,42
+6310943559,Bachelor's degree,Female,Portland,33,Q24,Top,43
+6311071344,Some college,Female,Portland,47,Q24,Top,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q24,Top,45
+6312143110,Bachelor's degree,Male,Portland,30,Q24,Top,46
+6312378954,High school,Male,Portland,32,Q24,Top,47
+6312455890,Master's degree,Female,Portland,33,Q24,Top,48
+6312895651,Some college,Female,Portland,45,Q24,Top,49
+6312956818,High school,Female,Portland,32,Q24,Top,50
+6313063787,Some college,Female,Portland,28,Q24,Tap,51
+6314540779,High school,Female,Portland,34,Q24,Tap,52
+6292013523,Some college,Female,Seattle,21,Q24,Top,53
+6292236245,Some college,Male,Seattle,48,Q24,Top,54
+6292385324,High school,Male,Seattle,21,Q24,Top,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q24,Top,56
+6292516891,Some college,Female,Seattle,44,Q24,Top,57
+6293162895,Associate's degree,Female,Seattle,39,Q24,Top,58
+6293299921,Some college,Female,Seattle,70,Q24,Tap,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q24,Top,60
+6299984500,Doctorate,Female,Seattle,35,Q24,Top,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q24,Top,62
+6310184853,High school,Female,Seattle,30,Q24,Top,63
+6310186546,Master's degree,Male,Seattle,41,Q24,Top,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q24,Top,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q24,Tap,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q24,Top,67
+6310280357,Some college,Female,Seattle,20,Q24,Tap,68
+6310284486,Some college,Female,Seattle,18,Q24,Top,69
+6310415216,High school,Male,Seattle,44,Q24,Tap,70
+6310431096,Some college,Female,Seattle,36,Q24,Top,71
+6310454248,High school,Female,Seattle,63,Q24,Top,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q24,Top,73
+6310615011,Some college,Male,Seattle,29,Q24,Top,74
+6310738946,Doctorate,Female,Seattle,30,Q24,Tap,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q24,Tap,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q24,Tap,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q24,Tap,78
+6310905753,Associate's degree,Male,Seattle,28,Q24,Tap,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q24,Tap,80
+6311198989,High school,Male,Seattle,39,Q24,Tap,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q24,Tap,82
+6312000952,High school,Female,Seattle,31,Q24,Tap,83
+6312012291,High school,Female,Seattle,42,Q24,Top,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q24,Top,85
+6312800807,High school,Male,Seattle,51,Q24,Tap,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q24,Top,87
+6313716227,High school,Female,Seattle,29,Q24,Top,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q24,Tap,89
+6290839372,Doctorate,Male,Bay Area,46,Q25,Hague,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q25,Hague,2
+6290945951,Some college,Male,Bay Area,34,Q25,Hague,3
+6290993154,Master's degree,Male,Bay Area,36,Q25,Hague,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q25,Hague,5
+6291787842,Doctorate,Female,Bay Area,40,Q25,Hague,6
+6292555973,High school,Female,Bay Area,21,Q25,Hag,7
+6292918132,Master's degree,Male,Bay Area,36,Q25,Hague,8
+6293235540,Master's degree,Female,Bay Area,28,Q25,Hague,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q25,Hague,10
+6295443348,Doctorate,Male,Bay Area,70,Q25,Hague,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q25,Hague,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q25,Hague,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q25,Hague,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q25,Hague,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q25,Hag,16
+6303234615,Doctorate,Female,Bay Area,36,Q25,Hague,17
+6290830262,Bachelor's degree,Female,Portland,36,Q25,Hag,18
+6290840132,Master's degree,Male,Portland,26,Q25,Hag,19
+6290890699,Master's degree,Female,Portland,35,Q25,Hague,20
+6290925844,Bachelor's degree,Female,Portland,25,Q25,Hague,21
+6291379727,High school,Male,Portland,44,Q25,Hague,22
+6291470262,Associate's Degree,Female,Portland,33,Q25,Hague,23
+6291565832,Bachelor's degree,Female,Portland,44,Q25,Hague,24
+6292965151,Doctorate,Female,Portland,38,Q25,Hague,25
+6293062574,Some college,Female,Portland,20,Q25,Hag,26
+6295509042,High school,Male,Portland,21,Q25,Hague,27
+6297754080,Master's degree,Female,Portland,33,Q25,Hague,28
+6297937396,Some college,Male,Portland,29,Q25,Hague,29
+6310170633,High school,Female,Portland,22,Q25,Hague,30
+6310172499,Associate's degree,Male,Portland,30,Q25,Hague,31
+6310180520,Bachelor's degree,Male,Portland,36,Q25,Hague,32
+6310269697,Bachelor's degree,Female,Portland,27,Q25,Hague,33
+6310295361,Associate's degree,Female,Portland,36,Q25,Hague,34
+6310344119,Associate's degree,Female,Portland,49,Q25,Hague,35
+6310370630,High school,Male,Portland,28,Q25,Hag,36
+6310391974,High school,Male,Portland,22,Q25,Hague,37
+6310474499,Doctorate,Male,Portland,34,Q25,Hag,38
+6310630982,Master's degree,Female,Portland,26,Q25,Hague,39
+6310741488,Bachelor's degree,Female,Portland,27,Q25,Hague,40
+6310781628,Associate's degree,Female,Portland,30,Q25,Hague,41
+6310817300,Doctorate,Female,Portland,43,Q25,Hag,42
+6310943559,Bachelor's degree,Female,Portland,33,Q25,Hag,43
+6311071344,Some college,Female,Portland,47,Q25,Hague,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q25,Hag,45
+6312143110,Bachelor's degree,Male,Portland,30,Q25,Hag,46
+6312378954,High school,Male,Portland,32,Q25,Hague,47
+6312455890,Master's degree,Female,Portland,33,Q25,Hague,48
+6312895651,Some college,Female,Portland,45,Q25,Hag,49
+6312956818,High school,Female,Portland,32,Q25,Hague,50
+6313063787,Some college,Female,Portland,28,Q25,Hague,51
+6314540779,High school,Female,Portland,34,Q25,Hague,52
+6292013523,Some college,Female,Seattle,21,Q25,Hague,53
+6292236245,Some college,Male,Seattle,48,Q25,Hag,54
+6292385324,High school,Male,Seattle,21,Q25,Hague,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q25,Hag,56
+6292516891,Some college,Female,Seattle,44,Q25,Hague,57
+6293162895,Associate's degree,Female,Seattle,39,Q25,Hag,58
+6293299921,Some college,Female,Seattle,70,Q25,Hag,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q25,Hague,60
+6299984500,Doctorate,Female,Seattle,35,Q25,Hague,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q25,Hag,62
+6310184853,High school,Female,Seattle,30,Q25,Hague,63
+6310186546,Master's degree,Male,Seattle,41,Q25,Hague,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q25,Hague,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q25,Hague,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q25,Hague,67
+6310280357,Some college,Female,Seattle,20,Q25,Hague,68
+6310284486,Some college,Female,Seattle,18,Q25,Hague,69
+6310415216,High school,Male,Seattle,44,Q25,Hag,70
+6310431096,Some college,Female,Seattle,36,Q25,Hague,71
+6310454248,High school,Female,Seattle,63,Q25,Hague,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q25,Hag,73
+6310615011,Some college,Male,Seattle,29,Q25,Hague,74
+6310738946,Doctorate,Female,Seattle,30,Q25,Hague,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q25,Hag,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q25,Hague,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q25,Hague,78
+6310905753,Associate's degree,Male,Seattle,28,Q25,Hague,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q25,Hag,80
+6311198989,High school,Male,Seattle,39,Q25,Hague,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q25,Hague,82
+6312000952,High school,Female,Seattle,31,Q25,Hague,83
+6312012291,High school,Female,Seattle,42,Q25,Hague,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q25,Hague,85
+6312800807,High school,Male,Seattle,51,Q25,Hague,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q25,Hague,87
+6313716227,High school,Female,Seattle,29,Q25,Hag,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q25,Hague,89
+6290839372,Doctorate,Male,Bay Area,46,Q26,Hague,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q26,Hague,2
+6290945951,Some college,Male,Bay Area,34,Q26,Hague,3
+6290993154,Master's degree,Male,Bay Area,36,Q26,Hague,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q26,Hague,5
+6291787842,Doctorate,Female,Bay Area,40,Q26,Hague,6
+6292555973,High school,Female,Bay Area,21,Q26,Hag,7
+6292918132,Master's degree,Male,Bay Area,36,Q26,Hague,8
+6293235540,Master's degree,Female,Bay Area,28,Q26,Hague,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q26,Hague,10
+6295443348,Doctorate,Male,Bay Area,70,Q26,Hague,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q26,Hague,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q26,Hague,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q26,Hag,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q26,Hague,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q26,Hag,16
+6303234615,Doctorate,Female,Bay Area,36,Q26,Hague,17
+6290830262,Bachelor's degree,Female,Portland,36,Q26,Hague,18
+6290840132,Master's degree,Male,Portland,26,Q26,Hag,19
+6290890699,Master's degree,Female,Portland,35,Q26,Hague,20
+6290925844,Bachelor's degree,Female,Portland,25,Q26,Hague,21
+6291379727,High school,Male,Portland,44,Q26,Hague,22
+6291470262,Associate's Degree,Female,Portland,33,Q26,Hague,23
+6291565832,Bachelor's degree,Female,Portland,44,Q26,Hague,24
+6292965151,Doctorate,Female,Portland,38,Q26,Hague,25
+6293062574,Some college,Female,Portland,20,Q26,Hag,26
+6295509042,High school,Male,Portland,21,Q26,Hague,27
+6297754080,Master's degree,Female,Portland,33,Q26,Hague,28
+6297937396,Some college,Male,Portland,29,Q26,Hague,29
+6310170633,High school,Female,Portland,22,Q26,Hague,30
+6310172499,Associate's degree,Male,Portland,30,Q26,Hague,31
+6310180520,Bachelor's degree,Male,Portland,36,Q26,Hague,32
+6310269697,Bachelor's degree,Female,Portland,27,Q26,Hague,33
+6310295361,Associate's degree,Female,Portland,36,Q26,Hague,34
+6310344119,Associate's degree,Female,Portland,49,Q26,Hague,35
+6310370630,High school,Male,Portland,28,Q26,Hag,36
+6310391974,High school,Male,Portland,22,Q26,Hag,37
+6310474499,Doctorate,Male,Portland,34,Q26,Hag,38
+6310630982,Master's degree,Female,Portland,26,Q26,Hague,39
+6310741488,Bachelor's degree,Female,Portland,27,Q26,Hague,40
+6310781628,Associate's degree,Female,Portland,30,Q26,Hague,41
+6310817300,Doctorate,Female,Portland,43,Q26,Hague,42
+6310943559,Bachelor's degree,Female,Portland,33,Q26,Hag,43
+6311071344,Some college,Female,Portland,47,Q26,Hague,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q26,Hag,45
+6312143110,Bachelor's degree,Male,Portland,30,Q26,Hag,46
+6312378954,High school,Male,Portland,32,Q26,Hague,47
+6312455890,Master's degree,Female,Portland,33,Q26,Hague,48
+6312895651,Some college,Female,Portland,45,Q26,Hague,49
+6312956818,High school,Female,Portland,32,Q26,Hague,50
+6313063787,Some college,Female,Portland,28,Q26,Hague,51
+6314540779,High school,Female,Portland,34,Q26,Hague,52
+6292013523,Some college,Female,Seattle,21,Q26,Hague,53
+6292236245,Some college,Male,Seattle,48,Q26,Hag,54
+6292385324,High school,Male,Seattle,21,Q26,Hague,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q26,Hag,56
+6292516891,Some college,Female,Seattle,44,Q26,Hague,57
+6293162895,Associate's degree,Female,Seattle,39,Q26,Hag,58
+6293299921,Some college,Female,Seattle,70,Q26,Hag,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q26,Hague,60
+6299984500,Doctorate,Female,Seattle,35,Q26,Hag,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q26,Hague,62
+6310184853,High school,Female,Seattle,30,Q26,Hague,63
+6310186546,Master's degree,Male,Seattle,41,Q26,Hague,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q26,Hague,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q26,Hag,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q26,Hague,67
+6310280357,Some college,Female,Seattle,20,Q26,Hague,68
+6310284486,Some college,Female,Seattle,18,Q26,Hag,69
+6310415216,High school,Male,Seattle,44,Q26,Hag,70
+6310431096,Some college,Female,Seattle,36,Q26,Hague,71
+6310454248,High school,Female,Seattle,63,Q26,Hague,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q26,Hag,73
+6310615011,Some college,Male,Seattle,29,Q26,Hague,74
+6310738946,Doctorate,Female,Seattle,30,Q26,Hague,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q26,Hague,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q26,Hag,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q26,Hague,78
+6310905753,Associate's degree,Male,Seattle,28,Q26,Hag,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q26,Hag,80
+6311198989,High school,Male,Seattle,39,Q26,Hague,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q26,Hague,82
+6312000952,High school,Female,Seattle,31,Q26,Hague,83
+6312012291,High school,Female,Seattle,42,Q26,Hague,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q26,Hague,85
+6312800807,High school,Male,Seattle,51,Q26,Hague,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q26,Hague,87
+6313716227,High school,Female,Seattle,29,Q26,Hag,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q26,Hague,89
+6290839372,Doctorate,Male,Bay Area,46,Q27,Hague,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q27,Hague,2
+6290945951,Some college,Male,Bay Area,34,Q27,Hague,3
+6290993154,Master's degree,Male,Bay Area,36,Q27,Hague,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q27,Hague,5
+6291787842,Doctorate,Female,Bay Area,40,Q27,Hague,6
+6292555973,High school,Female,Bay Area,21,Q27,Hag,7
+6292918132,Master's degree,Male,Bay Area,36,Q27,Hague,8
+6293235540,Master's degree,Female,Bay Area,28,Q27,Hag,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q27,Hag,10
+6295443348,Doctorate,Male,Bay Area,70,Q27,Hague,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q27,Hague,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q27,Hag,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q27,Hag,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q27,Hague,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q27,Hag,16
+6303234615,Doctorate,Female,Bay Area,36,Q27,Hague,17
+6290830262,Bachelor's degree,Female,Portland,36,Q27,Hag,18
+6290840132,Master's degree,Male,Portland,26,Q27,Hag,19
+6290890699,Master's degree,Female,Portland,35,Q27,Hague,20
+6290925844,Bachelor's degree,Female,Portland,25,Q27,Hague,21
+6291379727,High school,Male,Portland,44,Q27,Hague,22
+6291470262,Associate's Degree,Female,Portland,33,Q27,Hag,23
+6291565832,Bachelor's degree,Female,Portland,44,Q27,Hague,24
+6292965151,Doctorate,Female,Portland,38,Q27,Hague,25
+6293062574,Some college,Female,Portland,20,Q27,Hag,26
+6295509042,High school,Male,Portland,21,Q27,Hag,27
+6297754080,Master's degree,Female,Portland,33,Q27,Hague,28
+6297937396,Some college,Male,Portland,29,Q27,Hague,29
+6310170633,High school,Female,Portland,22,Q27,Hague,30
+6310172499,Associate's degree,Male,Portland,30,Q27,Hague,31
+6310180520,Bachelor's degree,Male,Portland,36,Q27,Hague,32
+6310269697,Bachelor's degree,Female,Portland,27,Q27,Hague,33
+6310295361,Associate's degree,Female,Portland,36,Q27,Hague,34
+6310344119,Associate's degree,Female,Portland,49,Q27,Hague,35
+6310370630,High school,Male,Portland,28,Q27,Hague,36
+6310391974,High school,Male,Portland,22,Q27,Hag,37
+6310474499,Doctorate,Male,Portland,34,Q27,Hag,38
+6310630982,Master's degree,Female,Portland,26,Q27,Hague,39
+6310741488,Bachelor's degree,Female,Portland,27,Q27,Hague,40
+6310781628,Associate's degree,Female,Portland,30,Q27,Hague,41
+6310817300,Doctorate,Female,Portland,43,Q27,Hague,42
+6310943559,Bachelor's degree,Female,Portland,33,Q27,Hag,43
+6311071344,Some college,Female,Portland,47,Q27,Hague,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q27,Hag,45
+6312143110,Bachelor's degree,Male,Portland,30,Q27,Hag,46
+6312378954,High school,Male,Portland,32,Q27,Hague,47
+6312455890,Master's degree,Female,Portland,33,Q27,Hague,48
+6312895651,Some college,Female,Portland,45,Q27,Hague,49
+6312956818,High school,Female,Portland,32,Q27,Hague,50
+6313063787,Some college,Female,Portland,28,Q27,Hague,51
+6314540779,High school,Female,Portland,34,Q27,Hague,52
+6292013523,Some college,Female,Seattle,21,Q27,Hag,53
+6292236245,Some college,Male,Seattle,48,Q27,Hague,54
+6292385324,High school,Male,Seattle,21,Q27,Hague,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q27,Hague,56
+6292516891,Some college,Female,Seattle,44,Q27,Hag,57
+6293162895,Associate's degree,Female,Seattle,39,Q27,Hag,58
+6293299921,Some college,Female,Seattle,70,Q27,Hag,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q27,Hague,60
+6299984500,Doctorate,Female,Seattle,35,Q27,Hag,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q27,Hag,62
+6310184853,High school,Female,Seattle,30,Q27,Hague,63
+6310186546,Master's degree,Male,Seattle,41,Q27,Hague,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q27,Hag,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q27,Hag,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q27,Hague,67
+6310280357,Some college,Female,Seattle,20,Q27,Hague,68
+6310284486,Some college,Female,Seattle,18,Q27,Hag,69
+6310415216,High school,Male,Seattle,44,Q27,Hag,70
+6310431096,Some college,Female,Seattle,36,Q27,Hague,71
+6310454248,High school,Female,Seattle,63,Q27,Hague,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q27,Hag,73
+6310615011,Some college,Male,Seattle,29,Q27,Hague,74
+6310738946,Doctorate,Female,Seattle,30,Q27,Hague,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q27,Hag,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q27,Hague,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q27,Hague,78
+6310905753,Associate's degree,Male,Seattle,28,Q27,Hague,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q27,Hag,80
+6311198989,High school,Male,Seattle,39,Q27,Hague,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q27,Hague,82
+6312000952,High school,Female,Seattle,31,Q27,Hague,83
+6312012291,High school,Female,Seattle,42,Q27,Hag,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q27,Hag,85
+6312800807,High school,Male,Seattle,51,Q27,Hague,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q27,Hague,87
+6313716227,High school,Female,Seattle,29,Q27,Hag,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q27,Hague,89
+6290839372,Doctorate,Male,Bay Area,46,Q28,Hague,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q28,Hag,2
+6290945951,Some college,Male,Bay Area,34,Q28,Hag,3
+6290993154,Master's degree,Male,Bay Area,36,Q28,Hag,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q28,Hague,5
+6291787842,Doctorate,Female,Bay Area,40,Q28,Hag,6
+6292555973,High school,Female,Bay Area,21,Q28,Hag,7
+6292918132,Master's degree,Male,Bay Area,36,Q28,Hague,8
+6293235540,Master's degree,Female,Bay Area,28,Q28,Hag,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q28,Hag,10
+6295443348,Doctorate,Male,Bay Area,70,Q28,Hague,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q28,Hag,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q28,Hag,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q28,Hag,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q28,Hague,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q28,Hag,16
+6303234615,Doctorate,Female,Bay Area,36,Q28,Hag,17
+6290830262,Bachelor's degree,Female,Portland,36,Q28,Hag,18
+6290840132,Master's degree,Male,Portland,26,Q28,Hag,19
+6290890699,Master's degree,Female,Portland,35,Q28,Hague,20
+6290925844,Bachelor's degree,Female,Portland,25,Q28,Hague,21
+6291379727,High school,Male,Portland,44,Q28,Hag,22
+6291470262,Associate's Degree,Female,Portland,33,Q28,Hag,23
+6291565832,Bachelor's degree,Female,Portland,44,Q28,Hague,24
+6292965151,Doctorate,Female,Portland,38,Q28,Hag,25
+6293062574,Some college,Female,Portland,20,Q28,Hag,26
+6295509042,High school,Male,Portland,21,Q28,Hague,27
+6297754080,Master's degree,Female,Portland,33,Q28,Hag,28
+6297937396,Some college,Male,Portland,29,Q28,Hague,29
+6310170633,High school,Female,Portland,22,Q28,Hag,30
+6310172499,Associate's degree,Male,Portland,30,Q28,Hag,31
+6310180520,Bachelor's degree,Male,Portland,36,Q28,Hague,32
+6310269697,Bachelor's degree,Female,Portland,27,Q28,Hague,33
+6310295361,Associate's degree,Female,Portland,36,Q28,Hague,34
+6310344119,Associate's degree,Female,Portland,49,Q28,Hag,35
+6310370630,High school,Male,Portland,28,Q28,Hague,36
+6310391974,High school,Male,Portland,22,Q28,Hag,37
+6310474499,Doctorate,Male,Portland,34,Q28,Hague,38
+6310630982,Master's degree,Female,Portland,26,Q28,Hague,39
+6310741488,Bachelor's degree,Female,Portland,27,Q28,Hague,40
+6310781628,Associate's degree,Female,Portland,30,Q28,Hague,41
+6310817300,Doctorate,Female,Portland,43,Q28,Hague,42
+6310943559,Bachelor's degree,Female,Portland,33,Q28,Hag,43
+6311071344,Some college,Female,Portland,47,Q28,Hague,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q28,Hag,45
+6312143110,Bachelor's degree,Male,Portland,30,Q28,Hag,46
+6312378954,High school,Male,Portland,32,Q28,Hague,47
+6312455890,Master's degree,Female,Portland,33,Q28,Hague,48
+6312895651,Some college,Female,Portland,45,Q28,Hague,49
+6312956818,High school,Female,Portland,32,Q28,Hag,50
+6313063787,Some college,Female,Portland,28,Q28,Hague,51
+6314540779,High school,Female,Portland,34,Q28,Hague,52
+6292013523,Some college,Female,Seattle,21,Q28,Hag,53
+6292236245,Some college,Male,Seattle,48,Q28,Hag,54
+6292385324,High school,Male,Seattle,21,Q28,Hag,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q28,Hag,56
+6292516891,Some college,Female,Seattle,44,Q28,Hag,57
+6293162895,Associate's degree,Female,Seattle,39,Q28,Hague,58
+6293299921,Some college,Female,Seattle,70,Q28,Hag,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q28,Hag,60
+6299984500,Doctorate,Female,Seattle,35,Q28,Hag,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q28,Hague,62
+6310184853,High school,Female,Seattle,30,Q28,Hague,63
+6310186546,Master's degree,Male,Seattle,41,Q28,Hague,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q28,Hague,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q28,Hag,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q28,Hague,67
+6310280357,Some college,Female,Seattle,20,Q28,Hague,68
+6310284486,Some college,Female,Seattle,18,Q28,Hag,69
+6310415216,High school,Male,Seattle,44,Q28,Hag,70
+6310431096,Some college,Female,Seattle,36,Q28,Hague,71
+6310454248,High school,Female,Seattle,63,Q28,Hague,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q28,Hag,73
+6310615011,Some college,Male,Seattle,29,Q28,Hague,74
+6310738946,Doctorate,Female,Seattle,30,Q28,Hague,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q28,Hag,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q28,Hag,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q28,Hague,78
+6310905753,Associate's degree,Male,Seattle,28,Q28,Hague,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q28,Hag,80
+6311198989,High school,Male,Seattle,39,Q28,Hague,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q28,Hague,82
+6312000952,High school,Female,Seattle,31,Q28,Hague,83
+6312012291,High school,Female,Seattle,42,Q28,Hag,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q28,Hag,85
+6312800807,High school,Male,Seattle,51,Q28,Hague,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q28,Hague,87
+6313716227,High school,Female,Seattle,29,Q28,Hag,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q28,Hague,89
+6290839372,Doctorate,Male,Bay Area,46,Q29,Hag,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q29,Hag,2
+6290945951,Some college,Male,Bay Area,34,Q29,Hag,3
+6290993154,Master's degree,Male,Bay Area,36,Q29,Hag,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q29,Hague,5
+6291787842,Doctorate,Female,Bay Area,40,Q29,Hag,6
+6292555973,High school,Female,Bay Area,21,Q29,Hag,7
+6292918132,Master's degree,Male,Bay Area,36,Q29,Hague,8
+6293235540,Master's degree,Female,Bay Area,28,Q29,Hag,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q29,Hag,10
+6295443348,Doctorate,Male,Bay Area,70,Q29,Hague,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q29,Hag,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q29,Hag,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q29,Hag,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q29,Hag,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q29,Hag,16
+6303234615,Doctorate,Female,Bay Area,36,Q29,Hag,17
+6290830262,Bachelor's degree,Female,Portland,36,Q29,Hag,18
+6290840132,Master's degree,Male,Portland,26,Q29,Hag,19
+6290890699,Master's degree,Female,Portland,35,Q29,Hag,20
+6290925844,Bachelor's degree,Female,Portland,25,Q29,Hag,21
+6291379727,High school,Male,Portland,44,Q29,Hague,22
+6291470262,Associate's Degree,Female,Portland,33,Q29,Hag,23
+6291565832,Bachelor's degree,Female,Portland,44,Q29,Hague,24
+6292965151,Doctorate,Female,Portland,38,Q29,Hag,25
+6293062574,Some college,Female,Portland,20,Q29,Hag,26
+6295509042,High school,Male,Portland,21,Q29,Hague,27
+6297754080,Master's degree,Female,Portland,33,Q29,Hag,28
+6297937396,Some college,Male,Portland,29,Q29,Hague,29
+6310170633,High school,Female,Portland,22,Q29,Hague,30
+6310172499,Associate's degree,Male,Portland,30,Q29,Hag,31
+6310180520,Bachelor's degree,Male,Portland,36,Q29,Hague,32
+6310269697,Bachelor's degree,Female,Portland,27,Q29,Hague,33
+6310295361,Associate's degree,Female,Portland,36,Q29,Hag,34
+6310344119,Associate's degree,Female,Portland,49,Q29,Hag,35
+6310370630,High school,Male,Portland,28,Q29,Hague,36
+6310391974,High school,Male,Portland,22,Q29,Hag,37
+6310474499,Doctorate,Male,Portland,34,Q29,Hague,38
+6310630982,Master's degree,Female,Portland,26,Q29,Hague,39
+6310741488,Bachelor's degree,Female,Portland,27,Q29,Hag,40
+6310781628,Associate's degree,Female,Portland,30,Q29,Hague,41
+6310817300,Doctorate,Female,Portland,43,Q29,Hague,42
+6310943559,Bachelor's degree,Female,Portland,33,Q29,Hag,43
+6311071344,Some college,Female,Portland,47,Q29,Hague,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q29,Hag,45
+6312143110,Bachelor's degree,Male,Portland,30,Q29,Hag,46
+6312378954,High school,Male,Portland,32,Q29,Hague,47
+6312455890,Master's degree,Female,Portland,33,Q29,Hague,48
+6312895651,Some college,Female,Portland,45,Q29,Hague,49
+6312956818,High school,Female,Portland,32,Q29,Hag,50
+6313063787,Some college,Female,Portland,28,Q29,Hag,51
+6314540779,High school,Female,Portland,34,Q29,Hag,52
+6292013523,Some college,Female,Seattle,21,Q29,Hag,53
+6292236245,Some college,Male,Seattle,48,Q29,Hag,54
+6292385324,High school,Male,Seattle,21,Q29,Hag,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q29,Hague,56
+6292516891,Some college,Female,Seattle,44,Q29,Hag,57
+6293162895,Associate's degree,Female,Seattle,39,Q29,Hag,58
+6293299921,Some college,Female,Seattle,70,Q29,Hag,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q29,Hag,60
+6299984500,Doctorate,Female,Seattle,35,Q29,Hague,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q29,Hag,62
+6310184853,High school,Female,Seattle,30,Q29,Hague,63
+6310186546,Master's degree,Male,Seattle,41,Q29,Hag,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q29,Hague,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q29,Hag,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q29,Hague,67
+6310280357,Some college,Female,Seattle,20,Q29,Hag,68
+6310284486,Some college,Female,Seattle,18,Q29,Hag,69
+6310415216,High school,Male,Seattle,44,Q29,Hag,70
+6310431096,Some college,Female,Seattle,36,Q29,Hague,71
+6310454248,High school,Female,Seattle,63,Q29,Hague,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q29,Hague,73
+6310615011,Some college,Male,Seattle,29,Q29,Hag,74
+6310738946,Doctorate,Female,Seattle,30,Q29,Hague,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q29,Hague,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q29,Hague,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q29,Hague,78
+6310905753,Associate's degree,Male,Seattle,28,Q29,Hague,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q29,Hag,80
+6311198989,High school,Male,Seattle,39,Q29,Hague,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q29,Hague,82
+6312000952,High school,Female,Seattle,31,Q29,Hague,83
+6312012291,High school,Female,Seattle,42,Q29,Hag,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q29,Hag,85
+6312800807,High school,Male,Seattle,51,Q29,Hague,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q29,Hague,87
+6313716227,High school,Female,Seattle,29,Q29,Hag,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q29,Hag,89
+6290839372,Doctorate,Male,Bay Area,46,Q30,Hag,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q30,Hag,2
+6290945951,Some college,Male,Bay Area,34,Q30,Hag,3
+6290993154,Master's degree,Male,Bay Area,36,Q30,Hag,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q30,Hague,5
+6291787842,Doctorate,Female,Bay Area,40,Q30,Hag,6
+6292555973,High school,Female,Bay Area,21,Q30,Hag,7
+6292918132,Master's degree,Male,Bay Area,36,Q30,Hag,8
+6293235540,Master's degree,Female,Bay Area,28,Q30,Hag,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q30,Hag,10
+6295443348,Doctorate,Male,Bay Area,70,Q30,Hag,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q30,Hag,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q30,Hag,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q30,Hag,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q30,Hag,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q30,Hag,16
+6303234615,Doctorate,Female,Bay Area,36,Q30,Hag,17
+6290830262,Bachelor's degree,Female,Portland,36,Q30,Hag,18
+6290840132,Master's degree,Male,Portland,26,Q30,Hag,19
+6290890699,Master's degree,Female,Portland,35,Q30,Hag,20
+6290925844,Bachelor's degree,Female,Portland,25,Q30,Hag,21
+6291379727,High school,Male,Portland,44,Q30,Hag,22
+6291470262,Associate's Degree,Female,Portland,33,Q30,Hag,23
+6291565832,Bachelor's degree,Female,Portland,44,Q30,Hag,24
+6292965151,Doctorate,Female,Portland,38,Q30,Hag,25
+6293062574,Some college,Female,Portland,20,Q30,Hag,26
+6295509042,High school,Male,Portland,21,Q30,Hag,27
+6297754080,Master's degree,Female,Portland,33,Q30,Hag,28
+6297937396,Some college,Male,Portland,29,Q30,Hague,29
+6310170633,High school,Female,Portland,22,Q30,Hag,30
+6310172499,Associate's degree,Male,Portland,30,Q30,Hag,31
+6310180520,Bachelor's degree,Male,Portland,36,Q30,Hag,32
+6310269697,Bachelor's degree,Female,Portland,27,Q30,Hague,33
+6310295361,Associate's degree,Female,Portland,36,Q30,Hag,34
+6310344119,Associate's degree,Female,Portland,49,Q30,Hag,35
+6310370630,High school,Male,Portland,28,Q30,Hague,36
+6310391974,High school,Male,Portland,22,Q30,Hag,37
+6310474499,Doctorate,Male,Portland,34,Q30,Hag,38
+6310630982,Master's degree,Female,Portland,26,Q30,Hague,39
+6310741488,Bachelor's degree,Female,Portland,27,Q30,Hag,40
+6310781628,Associate's degree,Female,Portland,30,Q30,Hague,41
+6310817300,Doctorate,Female,Portland,43,Q30,Hague,42
+6310943559,Bachelor's degree,Female,Portland,33,Q30,Hag,43
+6311071344,Some college,Female,Portland,47,Q30,Hague,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q30,Hag,45
+6312143110,Bachelor's degree,Male,Portland,30,Q30,Hag,46
+6312378954,High school,Male,Portland,32,Q30,Hague,47
+6312455890,Master's degree,Female,Portland,33,Q30,Hague,48
+6312895651,Some college,Female,Portland,45,Q30,Hague,49
+6312956818,High school,Female,Portland,32,Q30,Hag,50
+6313063787,Some college,Female,Portland,28,Q30,Hag,51
+6314540779,High school,Female,Portland,34,Q30,Hag,52
+6292013523,Some college,Female,Seattle,21,Q30,Hague,53
+6292236245,Some college,Male,Seattle,48,Q30,Hag,54
+6292385324,High school,Male,Seattle,21,Q30,Hag,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q30,Hague,56
+6292516891,Some college,Female,Seattle,44,Q30,Hag,57
+6293162895,Associate's degree,Female,Seattle,39,Q30,Hag,58
+6293299921,Some college,Female,Seattle,70,Q30,Hag,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q30,Hag,60
+6299984500,Doctorate,Female,Seattle,35,Q30,Hague,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q30,Hague,62
+6310184853,High school,Female,Seattle,30,Q30,Hague,63
+6310186546,Master's degree,Male,Seattle,41,Q30,Hag,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q30,Hag,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q30,Hag,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q30,Hague,67
+6310280357,Some college,Female,Seattle,20,Q30,Hag,68
+6310284486,Some college,Female,Seattle,18,Q30,Hague,69
+6310415216,High school,Male,Seattle,44,Q30,Hag,70
+6310431096,Some college,Female,Seattle,36,Q30,Hag,71
+6310454248,High school,Female,Seattle,63,Q30,Hag,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q30,Hague,73
+6310615011,Some college,Male,Seattle,29,Q30,Hag,74
+6310738946,Doctorate,Female,Seattle,30,Q30,Hague,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q30,Hag,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q30,Hag,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q30,Hag,78
+6310905753,Associate's degree,Male,Seattle,28,Q30,Hague,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q30,Hag,80
+6311198989,High school,Male,Seattle,39,Q30,Hag,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q30,Hague,82
+6312000952,High school,Female,Seattle,31,Q30,Hague,83
+6312012291,High school,Female,Seattle,42,Q30,Hag,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q30,Hag,85
+6312800807,High school,Male,Seattle,51,Q30,Hague,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q30,Hag,87
+6313716227,High school,Female,Seattle,29,Q30,Hag,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q30,Hag,89
+6290839372,Doctorate,Male,Bay Area,46,Q31,Hague,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q31,Hague,2
+6290945951,Some college,Male,Bay Area,34,Q31,Hague,3
+6290993154,Master's degree,Male,Bay Area,36,Q31,Hague,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q31,Hague,5
+6291787842,Doctorate,Female,Bay Area,40,Q31,Hague,6
+6292555973,High school,Female,Bay Area,21,Q31,Hag,7
+6292918132,Master's degree,Male,Bay Area,36,Q31,Hague,8
+6293235540,Master's degree,Female,Bay Area,28,Q31,Hague,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q31,Hague,10
+6295443348,Doctorate,Male,Bay Area,70,Q31,Hague,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q31,Hague,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q31,Hague,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q31,Hague,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q31,Hague,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q31,Hague,16
+6303234615,Doctorate,Female,Bay Area,36,Q31,Hague,17
+6290830262,Bachelor's degree,Female,Portland,36,Q31,Hague,18
+6290840132,Master's degree,Male,Portland,26,Q31,Hague,19
+6290890699,Master's degree,Female,Portland,35,Q31,Hague,20
+6290925844,Bachelor's degree,Female,Portland,25,Q31,Hague,21
+6291379727,High school,Male,Portland,44,Q31,Hague,22
+6291470262,Associate's Degree,Female,Portland,33,Q31,Hague,23
+6291565832,Bachelor's degree,Female,Portland,44,Q31,Hague,24
+6292965151,Doctorate,Female,Portland,38,Q31,Hague,25
+6293062574,Some college,Female,Portland,20,Q31,Hague,26
+6295509042,High school,Male,Portland,21,Q31,Hague,27
+6297754080,Master's degree,Female,Portland,33,Q31,Hague,28
+6297937396,Some college,Male,Portland,29,Q31,Hague,29
+6310170633,High school,Female,Portland,22,Q31,Hague,30
+6310172499,Associate's degree,Male,Portland,30,Q31,Hague,31
+6310180520,Bachelor's degree,Male,Portland,36,Q31,Hague,32
+6310269697,Bachelor's degree,Female,Portland,27,Q31,Hague,33
+6310295361,Associate's degree,Female,Portland,36,Q31,Hague,34
+6310344119,Associate's degree,Female,Portland,49,Q31,Hague,35
+6310370630,High school,Male,Portland,28,Q31,Hag,36
+6310391974,High school,Male,Portland,22,Q31,Hague,37
+6310474499,Doctorate,Male,Portland,34,Q31,Hague,38
+6310630982,Master's degree,Female,Portland,26,Q31,Hague,39
+6310741488,Bachelor's degree,Female,Portland,27,Q31,Hague,40
+6310781628,Associate's degree,Female,Portland,30,Q31,Hag,41
+6310817300,Doctorate,Female,Portland,43,Q31,Hague,42
+6310943559,Bachelor's degree,Female,Portland,33,Q31,Hague,43
+6311071344,Some college,Female,Portland,47,Q31,Hague,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q31,Hague,45
+6312143110,Bachelor's degree,Male,Portland,30,Q31,Hag,46
+6312378954,High school,Male,Portland,32,Q31,Hague,47
+6312455890,Master's degree,Female,Portland,33,Q31,Hague,48
+6312895651,Some college,Female,Portland,45,Q31,Hague,49
+6312956818,High school,Female,Portland,32,Q31,Hague,50
+6313063787,Some college,Female,Portland,28,Q31,Hague,51
+6314540779,High school,Female,Portland,34,Q31,Hague,52
+6292013523,Some college,Female,Seattle,21,Q31,Hague,53
+6292236245,Some college,Male,Seattle,48,Q31,Hague,54
+6292385324,High school,Male,Seattle,21,Q31,Hague,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q31,Hag,56
+6292516891,Some college,Female,Seattle,44,Q31,Hague,57
+6293162895,Associate's degree,Female,Seattle,39,Q31,Hag,58
+6293299921,Some college,Female,Seattle,70,Q31,Hague,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q31,Hague,60
+6299984500,Doctorate,Female,Seattle,35,Q31,Hague,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q31,Hag,62
+6310184853,High school,Female,Seattle,30,Q31,Hague,63
+6310186546,Master's degree,Male,Seattle,41,Q31,Hague,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q31,Hague,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q31,Hague,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q31,Hague,67
+6310280357,Some college,Female,Seattle,20,Q31,Hague,68
+6310284486,Some college,Female,Seattle,18,Q31,Hag,69
+6310415216,High school,Male,Seattle,44,Q31,Hag,70
+6310431096,Some college,Female,Seattle,36,Q31,Hague,71
+6310454248,High school,Female,Seattle,63,Q31,Hague,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q31,Hag,73
+6310615011,Some college,Male,Seattle,29,Q31,Hague,74
+6310738946,Doctorate,Female,Seattle,30,Q31,Hague,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q31,Hague,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q31,Hague,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q31,Hague,78
+6310905753,Associate's degree,Male,Seattle,28,Q31,Hague,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q31,Hag,80
+6311198989,High school,Male,Seattle,39,Q31,Hague,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q31,Hague,82
+6312000952,High school,Female,Seattle,31,Q31,Hague,83
+6312012291,High school,Female,Seattle,42,Q31,Hague,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q31,Hague,85
+6312800807,High school,Male,Seattle,51,Q31,Hague,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q31,Hague,87
+6313716227,High school,Female,Seattle,29,Q31,Hague,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q31,Hague,89
+6290839372,Doctorate,Male,Bay Area,46,Q32,Hag,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q32,Hague,2
+6290945951,Some college,Male,Bay Area,34,Q32,Hague,3
+6290993154,Master's degree,Male,Bay Area,36,Q32,Hague,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q32,Hague,5
+6291787842,Doctorate,Female,Bay Area,40,Q32,Hague,6
+6292555973,High school,Female,Bay Area,21,Q32,Hag,7
+6292918132,Master's degree,Male,Bay Area,36,Q32,Hague,8
+6293235540,Master's degree,Female,Bay Area,28,Q32,Hague,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q32,Hague,10
+6295443348,Doctorate,Male,Bay Area,70,Q32,Hague,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q32,Hague,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q32,Hague,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q32,Hague,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q32,Hague,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q32,Hague,16
+6303234615,Doctorate,Female,Bay Area,36,Q32,Hague,17
+6290830262,Bachelor's degree,Female,Portland,36,Q32,Hague,18
+6290840132,Master's degree,Male,Portland,26,Q32,Hague,19
+6290890699,Master's degree,Female,Portland,35,Q32,Hague,20
+6290925844,Bachelor's degree,Female,Portland,25,Q32,Hague,21
+6291379727,High school,Male,Portland,44,Q32,Hague,22
+6291470262,Associate's Degree,Female,Portland,33,Q32,Hague,23
+6291565832,Bachelor's degree,Female,Portland,44,Q32,Hague,24
+6292965151,Doctorate,Female,Portland,38,Q32,Hague,25
+6293062574,Some college,Female,Portland,20,Q32,Hague,26
+6295509042,High school,Male,Portland,21,Q32,Hague,27
+6297754080,Master's degree,Female,Portland,33,Q32,Hague,28
+6297937396,Some college,Male,Portland,29,Q32,Hague,29
+6310170633,High school,Female,Portland,22,Q32,Hague,30
+6310172499,Associate's degree,Male,Portland,30,Q32,Hague,31
+6310180520,Bachelor's degree,Male,Portland,36,Q32,Hague,32
+6310269697,Bachelor's degree,Female,Portland,27,Q32,Hague,33
+6310295361,Associate's degree,Female,Portland,36,Q32,Hague,34
+6310344119,Associate's degree,Female,Portland,49,Q32,Hague,35
+6310370630,High school,Male,Portland,28,Q32,Hag,36
+6310391974,High school,Male,Portland,22,Q32,Hague,37
+6310474499,Doctorate,Male,Portland,34,Q32,Hag,38
+6310630982,Master's degree,Female,Portland,26,Q32,Hague,39
+6310741488,Bachelor's degree,Female,Portland,27,Q32,Hague,40
+6310781628,Associate's degree,Female,Portland,30,Q32,Hag,41
+6310817300,Doctorate,Female,Portland,43,Q32,Hague,42
+6310943559,Bachelor's degree,Female,Portland,33,Q32,Hague,43
+6311071344,Some college,Female,Portland,47,Q32,Hague,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q32,Hague,45
+6312143110,Bachelor's degree,Male,Portland,30,Q32,Hag,46
+6312378954,High school,Male,Portland,32,Q32,Hague,47
+6312455890,Master's degree,Female,Portland,33,Q32,Hague,48
+6312895651,Some college,Female,Portland,45,Q32,Hague,49
+6312956818,High school,Female,Portland,32,Q32,Hague,50
+6313063787,Some college,Female,Portland,28,Q32,Hague,51
+6314540779,High school,Female,Portland,34,Q32,Hague,52
+6292013523,Some college,Female,Seattle,21,Q32,Hague,53
+6292236245,Some college,Male,Seattle,48,Q32,Hague,54
+6292385324,High school,Male,Seattle,21,Q32,Hague,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q32,Hag,56
+6292516891,Some college,Female,Seattle,44,Q32,Hague,57
+6293162895,Associate's degree,Female,Seattle,39,Q32,Hag,58
+6293299921,Some college,Female,Seattle,70,Q32,Hague,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q32,Hague,60
+6299984500,Doctorate,Female,Seattle,35,Q32,Hague,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q32,Hag,62
+6310184853,High school,Female,Seattle,30,Q32,Hague,63
+6310186546,Master's degree,Male,Seattle,41,Q32,Hague,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q32,Hague,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q32,Hague,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q32,Hague,67
+6310280357,Some college,Female,Seattle,20,Q32,Hague,68
+6310284486,Some college,Female,Seattle,18,Q32,Hag,69
+6310415216,High school,Male,Seattle,44,Q32,Hag,70
+6310431096,Some college,Female,Seattle,36,Q32,Hague,71
+6310454248,High school,Female,Seattle,63,Q32,Hague,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q32,Hag,73
+6310615011,Some college,Male,Seattle,29,Q32,Hague,74
+6310738946,Doctorate,Female,Seattle,30,Q32,Hague,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q32,Hag,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q32,Hague,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q32,Hague,78
+6310905753,Associate's degree,Male,Seattle,28,Q32,Hague,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q32,Hag,80
+6311198989,High school,Male,Seattle,39,Q32,Hague,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q32,Hague,82
+6312000952,High school,Female,Seattle,31,Q32,Hague,83
+6312012291,High school,Female,Seattle,42,Q32,Hague,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q32,Hague,85
+6312800807,High school,Male,Seattle,51,Q32,Hague,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q32,Hague,87
+6313716227,High school,Female,Seattle,29,Q32,Hag,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q32,Hague,89
+6290839372,Doctorate,Male,Bay Area,46,Q33,Hague,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q33,Hague,2
+6290945951,Some college,Male,Bay Area,34,Q33,Hague,3
+6290993154,Master's degree,Male,Bay Area,36,Q33,Hague,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q33,Hague,5
+6291787842,Doctorate,Female,Bay Area,40,Q33,Hague,6
+6292555973,High school,Female,Bay Area,21,Q33,Hag,7
+6292918132,Master's degree,Male,Bay Area,36,Q33,Hague,8
+6293235540,Master's degree,Female,Bay Area,28,Q33,Hague,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q33,Hag,10
+6295443348,Doctorate,Male,Bay Area,70,Q33,Hague,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q33,Hague,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q33,Hague,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q33,Hague,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q33,Hague,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q33,Hague,16
+6303234615,Doctorate,Female,Bay Area,36,Q33,Hague,17
+6290830262,Bachelor's degree,Female,Portland,36,Q33,Hag,18
+6290840132,Master's degree,Male,Portland,26,Q33,Hag,19
+6290890699,Master's degree,Female,Portland,35,Q33,Hague,20
+6290925844,Bachelor's degree,Female,Portland,25,Q33,Hague,21
+6291379727,High school,Male,Portland,44,Q33,Hague,22
+6291470262,Associate's Degree,Female,Portland,33,Q33,Hague,23
+6291565832,Bachelor's degree,Female,Portland,44,Q33,Hague,24
+6292965151,Doctorate,Female,Portland,38,Q33,Hague,25
+6293062574,Some college,Female,Portland,20,Q33,Hag,26
+6295509042,High school,Male,Portland,21,Q33,Hag,27
+6297754080,Master's degree,Female,Portland,33,Q33,Hague,28
+6297937396,Some college,Male,Portland,29,Q33,Hague,29
+6310170633,High school,Female,Portland,22,Q33,Hague,30
+6310172499,Associate's degree,Male,Portland,30,Q33,Hague,31
+6310180520,Bachelor's degree,Male,Portland,36,Q33,Hague,32
+6310269697,Bachelor's degree,Female,Portland,27,Q33,Hague,33
+6310295361,Associate's degree,Female,Portland,36,Q33,Hague,34
+6310344119,Associate's degree,Female,Portland,49,Q33,Hague,35
+6310370630,High school,Male,Portland,28,Q33,Hague,36
+6310391974,High school,Male,Portland,22,Q33,Hag,37
+6310474499,Doctorate,Male,Portland,34,Q33,Hag,38
+6310630982,Master's degree,Female,Portland,26,Q33,Hague,39
+6310741488,Bachelor's degree,Female,Portland,27,Q33,Hague,40
+6310781628,Associate's degree,Female,Portland,30,Q33,Hag,41
+6310817300,Doctorate,Female,Portland,43,Q33,Hague,42
+6310943559,Bachelor's degree,Female,Portland,33,Q33,Hag,43
+6311071344,Some college,Female,Portland,47,Q33,Hague,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q33,Hague,45
+6312143110,Bachelor's degree,Male,Portland,30,Q33,Hag,46
+6312378954,High school,Male,Portland,32,Q33,Hague,47
+6312455890,Master's degree,Female,Portland,33,Q33,Hague,48
+6312895651,Some college,Female,Portland,45,Q33,Hague,49
+6312956818,High school,Female,Portland,32,Q33,Hague,50
+6313063787,Some college,Female,Portland,28,Q33,Hague,51
+6314540779,High school,Female,Portland,34,Q33,Hague,52
+6292013523,Some college,Female,Seattle,21,Q33,Hag,53
+6292236245,Some college,Male,Seattle,48,Q33,Hag,54
+6292385324,High school,Male,Seattle,21,Q33,Hague,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q33,Hag,56
+6292516891,Some college,Female,Seattle,44,Q33,Hague,57
+6293162895,Associate's degree,Female,Seattle,39,Q33,Hag,58
+6293299921,Some college,Female,Seattle,70,Q33,Hag,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q33,Hague,60
+6299984500,Doctorate,Female,Seattle,35,Q33,Hag,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q33,Hag,62
+6310184853,High school,Female,Seattle,30,Q33,Hague,63
+6310186546,Master's degree,Male,Seattle,41,Q33,Hague,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q33,Hague,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q33,Hague,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q33,Hague,67
+6310280357,Some college,Female,Seattle,20,Q33,Hague,68
+6310284486,Some college,Female,Seattle,18,Q33,Hag,69
+6310415216,High school,Male,Seattle,44,Q33,Hag,70
+6310431096,Some college,Female,Seattle,36,Q33,Hague,71
+6310454248,High school,Female,Seattle,63,Q33,Hague,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q33,Hag,73
+6310615011,Some college,Male,Seattle,29,Q33,Hague,74
+6310738946,Doctorate,Female,Seattle,30,Q33,Hague,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q33,Hague,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q33,Hague,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q33,Hague,78
+6310905753,Associate's degree,Male,Seattle,28,Q33,Hague,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q33,Hag,80
+6311198989,High school,Male,Seattle,39,Q33,Hague,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q33,Hague,82
+6312000952,High school,Female,Seattle,31,Q33,Hague,83
+6312012291,High school,Female,Seattle,42,Q33,Hag,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q33,Hague,85
+6312800807,High school,Male,Seattle,51,Q33,Hague,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q33,Hague,87
+6313716227,High school,Female,Seattle,29,Q33,Hague,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q33,Hague,89
+6290839372,Doctorate,Male,Bay Area,46,Q34,Hague,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q34,Hag,2
+6290945951,Some college,Male,Bay Area,34,Q34,Hag,3
+6290993154,Master's degree,Male,Bay Area,36,Q34,Hag,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q34,Hague,5
+6291787842,Doctorate,Female,Bay Area,40,Q34,Hague,6
+6292555973,High school,Female,Bay Area,21,Q34,Hag,7
+6292918132,Master's degree,Male,Bay Area,36,Q34,Hague,8
+6293235540,Master's degree,Female,Bay Area,28,Q34,Hague,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q34,Hag,10
+6295443348,Doctorate,Male,Bay Area,70,Q34,Hague,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q34,Hague,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q34,Hague,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q34,Hag,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q34,Hague,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q34,Hague,16
+6303234615,Doctorate,Female,Bay Area,36,Q34,Hague,17
+6290830262,Bachelor's degree,Female,Portland,36,Q34,Hag,18
+6290840132,Master's degree,Male,Portland,26,Q34,Hague,19
+6290890699,Master's degree,Female,Portland,35,Q34,Hague,20
+6290925844,Bachelor's degree,Female,Portland,25,Q34,Hague,21
+6291379727,High school,Male,Portland,44,Q34,Hague,22
+6291470262,Associate's Degree,Female,Portland,33,Q34,Hague,23
+6291565832,Bachelor's degree,Female,Portland,44,Q34,Hague,24
+6292965151,Doctorate,Female,Portland,38,Q34,Hague,25
+6293062574,Some college,Female,Portland,20,Q34,Hag,26
+6295509042,High school,Male,Portland,21,Q34,Hague,27
+6297754080,Master's degree,Female,Portland,33,Q34,Hague,28
+6297937396,Some college,Male,Portland,29,Q34,Hague,29
+6310170633,High school,Female,Portland,22,Q34,Hague,30
+6310172499,Associate's degree,Male,Portland,30,Q34,Hague,31
+6310180520,Bachelor's degree,Male,Portland,36,Q34,Hague,32
+6310269697,Bachelor's degree,Female,Portland,27,Q34,Hague,33
+6310295361,Associate's degree,Female,Portland,36,Q34,Hague,34
+6310344119,Associate's degree,Female,Portland,49,Q34,Hague,35
+6310370630,High school,Male,Portland,28,Q34,Hag,36
+6310391974,High school,Male,Portland,22,Q34,Hag,37
+6310474499,Doctorate,Male,Portland,34,Q34,Hag,38
+6310630982,Master's degree,Female,Portland,26,Q34,Hague,39
+6310741488,Bachelor's degree,Female,Portland,27,Q34,Hague,40
+6310781628,Associate's degree,Female,Portland,30,Q34,Hag,41
+6310817300,Doctorate,Female,Portland,43,Q34,Hague,42
+6310943559,Bachelor's degree,Female,Portland,33,Q34,Hague,43
+6311071344,Some college,Female,Portland,47,Q34,Hague,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q34,Hag,45
+6312143110,Bachelor's degree,Male,Portland,30,Q34,Hag,46
+6312378954,High school,Male,Portland,32,Q34,Hague,47
+6312455890,Master's degree,Female,Portland,33,Q34,Hague,48
+6312895651,Some college,Female,Portland,45,Q34,Hague,49
+6312956818,High school,Female,Portland,32,Q34,Hag,50
+6313063787,Some college,Female,Portland,28,Q34,Hague,51
+6314540779,High school,Female,Portland,34,Q34,Hague,52
+6292013523,Some college,Female,Seattle,21,Q34,Hag,53
+6292236245,Some college,Male,Seattle,48,Q34,Hag,54
+6292385324,High school,Male,Seattle,21,Q34,Hague,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q34,Hag,56
+6292516891,Some college,Female,Seattle,44,Q34,Hag,57
+6293162895,Associate's degree,Female,Seattle,39,Q34,Hag,58
+6293299921,Some college,Female,Seattle,70,Q34,Hag,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q34,Hague,60
+6299984500,Doctorate,Female,Seattle,35,Q34,Hag,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q34,Hague,62
+6310184853,High school,Female,Seattle,30,Q34,Hague,63
+6310186546,Master's degree,Male,Seattle,41,Q34,Hague,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q34,Hague,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q34,Hague,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q34,Hague,67
+6310280357,Some college,Female,Seattle,20,Q34,Hague,68
+6310284486,Some college,Female,Seattle,18,Q34,Hague,69
+6310415216,High school,Male,Seattle,44,Q34,Hag,70
+6310431096,Some college,Female,Seattle,36,Q34,Hague,71
+6310454248,High school,Female,Seattle,63,Q34,Hague,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q34,Hag,73
+6310615011,Some college,Male,Seattle,29,Q34,Hague,74
+6310738946,Doctorate,Female,Seattle,30,Q34,Hague,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q34,Hag,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q34,Hague,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q34,Hague,78
+6310905753,Associate's degree,Male,Seattle,28,Q34,Hague,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q34,Hag,80
+6311198989,High school,Male,Seattle,39,Q34,Hague,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q34,Hague,82
+6312000952,High school,Female,Seattle,31,Q34,Hague,83
+6312012291,High school,Female,Seattle,42,Q34,Hag,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q34,Hag,85
+6312800807,High school,Male,Seattle,51,Q34,Hague,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q34,Hague,87
+6313716227,High school,Female,Seattle,29,Q34,Hag,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q34,Hague,89
+6290839372,Doctorate,Male,Bay Area,46,Q35,Hag,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q35,Hag,2
+6290945951,Some college,Male,Bay Area,34,Q35,Hag,3
+6290993154,Master's degree,Male,Bay Area,36,Q35,Hague,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q35,Hague,5
+6291787842,Doctorate,Female,Bay Area,40,Q35,Hague,6
+6292555973,High school,Female,Bay Area,21,Q35,Hag,7
+6292918132,Master's degree,Male,Bay Area,36,Q35,Hague,8
+6293235540,Master's degree,Female,Bay Area,28,Q35,Hague,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q35,Hag,10
+6295443348,Doctorate,Male,Bay Area,70,Q35,Hague,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q35,Hague,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q35,Hag,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q35,Hague,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q35,Hague,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q35,Hag,16
+6303234615,Doctorate,Female,Bay Area,36,Q35,Hague,17
+6290830262,Bachelor's degree,Female,Portland,36,Q35,Hag,18
+6290840132,Master's degree,Male,Portland,26,Q35,Hag,19
+6290890699,Master's degree,Female,Portland,35,Q35,Hague,20
+6290925844,Bachelor's degree,Female,Portland,25,Q35,Hague,21
+6291379727,High school,Male,Portland,44,Q35,Hague,22
+6291470262,Associate's Degree,Female,Portland,33,Q35,Hag,23
+6291565832,Bachelor's degree,Female,Portland,44,Q35,Hague,24
+6292965151,Doctorate,Female,Portland,38,Q35,Hag,25
+6293062574,Some college,Female,Portland,20,Q35,Hag,26
+6295509042,High school,Male,Portland,21,Q35,Hag,27
+6297754080,Master's degree,Female,Portland,33,Q35,Hag,28
+6297937396,Some college,Male,Portland,29,Q35,Hague,29
+6310170633,High school,Female,Portland,22,Q35,Hag,30
+6310172499,Associate's degree,Male,Portland,30,Q35,Hag,31
+6310180520,Bachelor's degree,Male,Portland,36,Q35,Hag,32
+6310269697,Bachelor's degree,Female,Portland,27,Q35,Hague,33
+6310295361,Associate's degree,Female,Portland,36,Q35,Hague,34
+6310344119,Associate's degree,Female,Portland,49,Q35,Hague,35
+6310370630,High school,Male,Portland,28,Q35,Hague,36
+6310391974,High school,Male,Portland,22,Q35,Hag,37
+6310474499,Doctorate,Male,Portland,34,Q35,Hag,38
+6310630982,Master's degree,Female,Portland,26,Q35,Hague,39
+6310741488,Bachelor's degree,Female,Portland,27,Q35,Hague,40
+6310781628,Associate's degree,Female,Portland,30,Q35,Hag,41
+6310817300,Doctorate,Female,Portland,43,Q35,Hague,42
+6310943559,Bachelor's degree,Female,Portland,33,Q35,Hague,43
+6311071344,Some college,Female,Portland,47,Q35,Hague,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q35,Hag,45
+6312143110,Bachelor's degree,Male,Portland,30,Q35,Hag,46
+6312378954,High school,Male,Portland,32,Q35,Hague,47
+6312455890,Master's degree,Female,Portland,33,Q35,Hague,48
+6312895651,Some college,Female,Portland,45,Q35,Hague,49
+6312956818,High school,Female,Portland,32,Q35,Hag,50
+6313063787,Some college,Female,Portland,28,Q35,Hague,51
+6314540779,High school,Female,Portland,34,Q35,Hague,52
+6292013523,Some college,Female,Seattle,21,Q35,Hag,53
+6292236245,Some college,Male,Seattle,48,Q35,Hag,54
+6292385324,High school,Male,Seattle,21,Q35,Hag,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q35,Hague,56
+6292516891,Some college,Female,Seattle,44,Q35,Hague,57
+6293162895,Associate's degree,Female,Seattle,39,Q35,Hague,58
+6293299921,Some college,Female,Seattle,70,Q35,Hag,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q35,Hag,60
+6299984500,Doctorate,Female,Seattle,35,Q35,Hag,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q35,Hague,62
+6310184853,High school,Female,Seattle,30,Q35,Hague,63
+6310186546,Master's degree,Male,Seattle,41,Q35,Hague,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q35,Hague,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q35,Hague,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q35,Hague,67
+6310280357,Some college,Female,Seattle,20,Q35,Hag,68
+6310284486,Some college,Female,Seattle,18,Q35,Hague,69
+6310415216,High school,Male,Seattle,44,Q35,Hag,70
+6310431096,Some college,Female,Seattle,36,Q35,Hag,71
+6310454248,High school,Female,Seattle,63,Q35,Hag,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q35,Hag,73
+6310615011,Some college,Male,Seattle,29,Q35,Hag,74
+6310738946,Doctorate,Female,Seattle,30,Q35,Hague,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q35,Hag,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q35,Hague,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q35,Hague,78
+6310905753,Associate's degree,Male,Seattle,28,Q35,Hague,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q35,Hag,80
+6311198989,High school,Male,Seattle,39,Q35,Hague,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q35,Hague,82
+6312000952,High school,Female,Seattle,31,Q35,Hague,83
+6312012291,High school,Female,Seattle,42,Q35,Hag,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q35,Hag,85
+6312800807,High school,Male,Seattle,51,Q35,Hague,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q35,Hague,87
+6313716227,High school,Female,Seattle,29,Q35,Hag,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q35,Hag,89
+6290839372,Doctorate,Male,Bay Area,46,Q36,Hag,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q36,Hag,2
+6290945951,Some college,Male,Bay Area,34,Q36,Hague,3
+6290993154,Master's degree,Male,Bay Area,36,Q36,Hag,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q36,Hague,5
+6291787842,Doctorate,Female,Bay Area,40,Q36,Hag,6
+6292555973,High school,Female,Bay Area,21,Q36,Hag,7
+6292918132,Master's degree,Male,Bay Area,36,Q36,Hague,8
+6293235540,Master's degree,Female,Bay Area,28,Q36,Hag,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q36,Hag,10
+6295443348,Doctorate,Male,Bay Area,70,Q36,Hag,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q36,Hag,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q36,Hag,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q36,Hag,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q36,Hag,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q36,Hag,16
+6303234615,Doctorate,Female,Bay Area,36,Q36,Hague,17
+6290830262,Bachelor's degree,Female,Portland,36,Q36,Hag,18
+6290840132,Master's degree,Male,Portland,26,Q36,Hag,19
+6290890699,Master's degree,Female,Portland,35,Q36,Hague,20
+6290925844,Bachelor's degree,Female,Portland,25,Q36,Hag,21
+6291379727,High school,Male,Portland,44,Q36,Hague,22
+6291470262,Associate's Degree,Female,Portland,33,Q36,Hag,23
+6291565832,Bachelor's degree,Female,Portland,44,Q36,Hague,24
+6292965151,Doctorate,Female,Portland,38,Q36,Hag,25
+6293062574,Some college,Female,Portland,20,Q36,Hag,26
+6295509042,High school,Male,Portland,21,Q36,Hague,27
+6297754080,Master's degree,Female,Portland,33,Q36,Hag,28
+6297937396,Some college,Male,Portland,29,Q36,Hag,29
+6310170633,High school,Female,Portland,22,Q36,Hag,30
+6310172499,Associate's degree,Male,Portland,30,Q36,Hag,31
+6310180520,Bachelor's degree,Male,Portland,36,Q36,Hag,32
+6310269697,Bachelor's degree,Female,Portland,27,Q36,Hague,33
+6310295361,Associate's degree,Female,Portland,36,Q36,Hague,34
+6310344119,Associate's degree,Female,Portland,49,Q36,Hag,35
+6310370630,High school,Male,Portland,28,Q36,Hague,36
+6310391974,High school,Male,Portland,22,Q36,Hag,37
+6310474499,Doctorate,Male,Portland,34,Q36,Hag,38
+6310630982,Master's degree,Female,Portland,26,Q36,Hague,39
+6310741488,Bachelor's degree,Female,Portland,27,Q36,Hag,40
+6310781628,Associate's degree,Female,Portland,30,Q36,Hague,41
+6310817300,Doctorate,Female,Portland,43,Q36,Hag,42
+6310943559,Bachelor's degree,Female,Portland,33,Q36,Hag,43
+6311071344,Some college,Female,Portland,47,Q36,Hague,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q36,Hag,45
+6312143110,Bachelor's degree,Male,Portland,30,Q36,Hag,46
+6312378954,High school,Male,Portland,32,Q36,Hague,47
+6312455890,Master's degree,Female,Portland,33,Q36,Hag,48
+6312895651,Some college,Female,Portland,45,Q36,Hague,49
+6312956818,High school,Female,Portland,32,Q36,Hag,50
+6313063787,Some college,Female,Portland,28,Q36,Hague,51
+6314540779,High school,Female,Portland,34,Q36,Hague,52
+6292013523,Some college,Female,Seattle,21,Q36,Hag,53
+6292236245,Some college,Male,Seattle,48,Q36,Hag,54
+6292385324,High school,Male,Seattle,21,Q36,Hag,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q36,Hag,56
+6292516891,Some college,Female,Seattle,44,Q36,Hag,57
+6293162895,Associate's degree,Female,Seattle,39,Q36,Hag,58
+6293299921,Some college,Female,Seattle,70,Q36,Hag,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q36,Hag,60
+6299984500,Doctorate,Female,Seattle,35,Q36,Hag,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q36,Hag,62
+6310184853,High school,Female,Seattle,30,Q36,Hague,63
+6310186546,Master's degree,Male,Seattle,41,Q36,Hag,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q36,Hague,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q36,Hag,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q36,Hague,67
+6310280357,Some college,Female,Seattle,20,Q36,Hag,68
+6310284486,Some college,Female,Seattle,18,Q36,Hague,69
+6310415216,High school,Male,Seattle,44,Q36,Hag,70
+6310431096,Some college,Female,Seattle,36,Q36,Hag,71
+6310454248,High school,Female,Seattle,63,Q36,Hag,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q36,Hague,73
+6310615011,Some college,Male,Seattle,29,Q36,Hag,74
+6310738946,Doctorate,Female,Seattle,30,Q36,Hague,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q36,Hague,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q36,Hague,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q36,Hague,78
+6310905753,Associate's degree,Male,Seattle,28,Q36,Hague,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q36,Hag,80
+6311198989,High school,Male,Seattle,39,Q36,Hague,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q36,Hague,82
+6312000952,High school,Female,Seattle,31,Q36,Hague,83
+6312012291,High school,Female,Seattle,42,Q36,Hag,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q36,Hag,85
+6312800807,High school,Male,Seattle,51,Q36,Hague,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q36,Hague,87
+6313716227,High school,Female,Seattle,29,Q36,Hague,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q36,Hag,89
+6290839372,Doctorate,Male,Bay Area,46,Q37,Hag,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q37,Hag,2
+6290945951,Some college,Male,Bay Area,34,Q37,Hag,3
+6290993154,Master's degree,Male,Bay Area,36,Q37,Hag,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q37,Hag,5
+6291787842,Doctorate,Female,Bay Area,40,Q37,Hag,6
+6292555973,High school,Female,Bay Area,21,Q37,Hag,7
+6292918132,Master's degree,Male,Bay Area,36,Q37,Hag,8
+6293235540,Master's degree,Female,Bay Area,28,Q37,Hag,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q37,Hag,10
+6295443348,Doctorate,Male,Bay Area,70,Q37,Hag,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q37,Hag,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q37,Hag,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q37,Hag,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q37,Hag,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q37,Hag,16
+6303234615,Doctorate,Female,Bay Area,36,Q37,Hag,17
+6290830262,Bachelor's degree,Female,Portland,36,Q37,Hag,18
+6290840132,Master's degree,Male,Portland,26,Q37,Hag,19
+6290890699,Master's degree,Female,Portland,35,Q37,Hague,20
+6290925844,Bachelor's degree,Female,Portland,25,Q37,Hag,21
+6291379727,High school,Male,Portland,44,Q37,Hag,22
+6291470262,Associate's Degree,Female,Portland,33,Q37,Hag,23
+6291565832,Bachelor's degree,Female,Portland,44,Q37,Hag,24
+6292965151,Doctorate,Female,Portland,38,Q37,Hag,25
+6293062574,Some college,Female,Portland,20,Q37,Hag,26
+6295509042,High school,Male,Portland,21,Q37,Hag,27
+6297754080,Master's degree,Female,Portland,33,Q37,Hag,28
+6297937396,Some college,Male,Portland,29,Q37,Hag,29
+6310170633,High school,Female,Portland,22,Q37,Hag,30
+6310172499,Associate's degree,Male,Portland,30,Q37,Hag,31
+6310180520,Bachelor's degree,Male,Portland,36,Q37,Hag,32
+6310269697,Bachelor's degree,Female,Portland,27,Q37,Hague,33
+6310295361,Associate's degree,Female,Portland,36,Q37,Hag,34
+6310344119,Associate's degree,Female,Portland,49,Q37,Hag,35
+6310370630,High school,Male,Portland,28,Q37,Hague,36
+6310391974,High school,Male,Portland,22,Q37,Hag,37
+6310474499,Doctorate,Male,Portland,34,Q37,Hague,38
+6310630982,Master's degree,Female,Portland,26,Q37,Hague,39
+6310741488,Bachelor's degree,Female,Portland,27,Q37,Hag,40
+6310781628,Associate's degree,Female,Portland,30,Q37,Hague,41
+6310817300,Doctorate,Female,Portland,43,Q37,Hag,42
+6310943559,Bachelor's degree,Female,Portland,33,Q37,Hag,43
+6311071344,Some college,Female,Portland,47,Q37,Hag,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q37,Hag,45
+6312143110,Bachelor's degree,Male,Portland,30,Q37,Hag,46
+6312378954,High school,Male,Portland,32,Q37,Hague,47
+6312455890,Master's degree,Female,Portland,33,Q37,Hag,48
+6312895651,Some college,Female,Portland,45,Q37,Hag,49
+6312956818,High school,Female,Portland,32,Q37,Hag,50
+6313063787,Some college,Female,Portland,28,Q37,Hag,51
+6314540779,High school,Female,Portland,34,Q37,Hag,52
+6292013523,Some college,Female,Seattle,21,Q37,Hag,53
+6292236245,Some college,Male,Seattle,48,Q37,Hag,54
+6292385324,High school,Male,Seattle,21,Q37,Hag,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q37,Hague,56
+6292516891,Some college,Female,Seattle,44,Q37,Hag,57
+6293162895,Associate's degree,Female,Seattle,39,Q37,Hague,58
+6293299921,Some college,Female,Seattle,70,Q37,Hag,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q37,Hag,60
+6299984500,Doctorate,Female,Seattle,35,Q37,Hague,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q37,Hag,62
+6310184853,High school,Female,Seattle,30,Q37,Hague,63
+6310186546,Master's degree,Male,Seattle,41,Q37,Hag,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q37,Hag,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q37,Hag,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q37,Hague,67
+6310280357,Some college,Female,Seattle,20,Q37,Hag,68
+6310284486,Some college,Female,Seattle,18,Q37,Hague,69
+6310415216,High school,Male,Seattle,44,Q37,Hag,70
+6310431096,Some college,Female,Seattle,36,Q37,Hag,71
+6310454248,High school,Female,Seattle,63,Q37,Hag,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q37,Hague,73
+6310615011,Some college,Male,Seattle,29,Q37,Hag,74
+6310738946,Doctorate,Female,Seattle,30,Q37,Hag,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q37,Hag,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q37,Hague,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q37,Hag,78
+6310905753,Associate's degree,Male,Seattle,28,Q37,Hague,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q37,Hag,80
+6311198989,High school,Male,Seattle,39,Q37,Hag,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q37,Hague,82
+6312000952,High school,Female,Seattle,31,Q37,Hag,83
+6312012291,High school,Female,Seattle,42,Q37,Hag,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q37,Hag,85
+6312800807,High school,Male,Seattle,51,Q37,Hague,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q37,Hag,87
+6313716227,High school,Female,Seattle,29,Q37,Hag,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q37,Hag,89
+6290839372,Doctorate,Male,Bay Area,46,Q38,Hague,1
+6290885805,Bachelor's degree,Male,Bay Area,37,Q38,Hague,2
+6290945951,Some college,Male,Bay Area,34,Q38,Hague,3
+6290993154,Master's degree,Male,Bay Area,36,Q38,Hague,4
+6291117503,Bachelor's degree,Male,Bay Area,36,Q38,Hague,5
+6291787842,Doctorate,Female,Bay Area,40,Q38,Hague,6
+6292555973,High school,Female,Bay Area,21,Q38,Hag,7
+6292918132,Master's degree,Male,Bay Area,36,Q38,Hague,8
+6293235540,Master's degree,Female,Bay Area,28,Q38,Hague,9
+6295040450,Bachelor's degree,Female,Bay Area,36,Q38,Hague,10
+6295443348,Doctorate,Male,Bay Area,70,Q38,Hague,11
+6297525583,Bachelor's degree,Male,Bay Area,27,Q38,Hague,12
+6297526289,Bachelor's degree,Male,Bay Area,33,Q38,Hague,13
+6297571314,Bachelor's degree,Male,Bay Area,24,Q38,Hague,14
+6297655582,Bachelor's degree,Female,Bay Area,33,Q38,Hague,15
+6297910333,Bachelor's degree,Female,Bay Area,38,Q38,Hague,16
+6303234615,Doctorate,Female,Bay Area,36,Q38,Hague,17
+6290830262,Bachelor's degree,Female,Portland,36,Q38,Hague,18
+6290840132,Master's degree,Male,Portland,26,Q38,Hague,19
+6290890699,Master's degree,Female,Portland,35,Q38,Hague,20
+6290925844,Bachelor's degree,Female,Portland,25,Q38,Hague,21
+6291379727,High school,Male,Portland,44,Q38,Hague,22
+6291470262,Associate's Degree,Female,Portland,33,Q38,Hague,23
+6291565832,Bachelor's degree,Female,Portland,44,Q38,Hague,24
+6292965151,Doctorate,Female,Portland,38,Q38,Hague,25
+6293062574,Some college,Female,Portland,20,Q38,Hague,26
+6295509042,High school,Male,Portland,21,Q38,Hague,27
+6297754080,Master's degree,Female,Portland,33,Q38,Hague,28
+6297937396,Some college,Male,Portland,29,Q38,Hague,29
+6310170633,High school,Female,Portland,22,Q38,Hague,30
+6310172499,Associate's degree,Male,Portland,30,Q38,Hague,31
+6310180520,Bachelor's degree,Male,Portland,36,Q38,Hague,32
+6310269697,Bachelor's degree,Female,Portland,27,Q38,Hague,33
+6310295361,Associate's degree,Female,Portland,36,Q38,Hague,34
+6310344119,Associate's degree,Female,Portland,49,Q38,Hague,35
+6310370630,High school,Male,Portland,28,Q38,Hague,36
+6310391974,High school,Male,Portland,22,Q38,Hague,37
+6310474499,Doctorate,Male,Portland,34,Q38,Hague,38
+6310630982,Master's degree,Female,Portland,26,Q38,Hague,39
+6310741488,Bachelor's degree,Female,Portland,27,Q38,Hague,40
+6310781628,Associate's degree,Female,Portland,30,Q38,Hague,41
+6310817300,Doctorate,Female,Portland,43,Q38,Hague,42
+6310943559,Bachelor's degree,Female,Portland,33,Q38,Hague,43
+6311071344,Some college,Female,Portland,47,Q38,Hague,44
+6312025889,Bachelor's degree,Non-binary,Portland,32,Q38,Hag,45
+6312143110,Bachelor's degree,Male,Portland,30,Q38,Hague,46
+6312378954,High school,Male,Portland,32,Q38,Hag,47
+6312455890,Master's degree,Female,Portland,33,Q38,Hague,48
+6312895651,Some college,Female,Portland,45,Q38,Hague,49
+6312956818,High school,Female,Portland,32,Q38,Hague,50
+6313063787,Some college,Female,Portland,28,Q38,Hague,51
+6314540779,High school,Female,Portland,34,Q38,Hague,52
+6292013523,Some college,Female,Seattle,21,Q38,Hague,53
+6292236245,Some college,Male,Seattle,48,Q38,Hague,54
+6292385324,High school,Male,Seattle,21,Q38,Hague,55
+6292433187,Bachelor's degree,Female,Seattle,21,Q38,Hag,56
+6292516891,Some college,Female,Seattle,44,Q38,Hague,57
+6293162895,Associate's degree,Female,Seattle,39,Q38,Hag,58
+6293299921,Some college,Female,Seattle,70,Q38,Hague,59
+6297949005,Bachelor's degree,Female,Seattle,25,Q38,Hague,60
+6299984500,Doctorate,Female,Seattle,35,Q38,Hague,61
+6301784846,Bachelor's degree,Male,Seattle,27,Q38,Hag,62
+6310184853,High school,Female,Seattle,30,Q38,Hague,63
+6310186546,Master's degree,Male,Seattle,41,Q38,Hague,64
+6310194014,Bachelor's degree,Female,Seattle,25,Q38,Hague,65
+6310228851,Bachelor's degree,Female,Seattle,25,Q38,Hague,66
+6310264774,Bachelor's degree,Female,Seattle,58,Q38,Hague,67
+6310280357,Some college,Female,Seattle,20,Q38,Hague,68
+6310284486,Some college,Female,Seattle,18,Q38,Hague,69
+6310415216,High school,Male,Seattle,44,Q38,Hag,70
+6310431096,Some college,Female,Seattle,36,Q38,Hague,71
+6310454248,High school,Female,Seattle,63,Q38,Hague,72
+6310552214,Bachelor's degree,Female,Seattle,36,Q38,Hag,73
+6310615011,Some college,Male,Seattle,29,Q38,Hague,74
+6310738946,Doctorate,Female,Seattle,30,Q38,Hague,75
+6310856303,Bachelor's degree,Female,Seattle,21,Q38,Hag,76
+6310874826,Bachelor's degree,Female,Seattle,28,Q38,Hague,77
+6310902250,Bachelor's degree,Male,Seattle,34,Q38,Hague,78
+6310905753,Associate's degree,Male,Seattle,28,Q38,Hague,79
+6311154689,Bachelor's degree,Female,Seattle,22,Q38,Hag,80
+6311198989,High school,Male,Seattle,39,Q38,Hague,81
+6311802594,Bachelor's degree,Male,Seattle,27,Q38,Hague,82
+6312000952,High school,Female,Seattle,31,Q38,Hague,83
+6312012291,High school,Female,Seattle,42,Q38,Hague,84
+6312579195,Bachelor's degree,Male,Seattle,28,Q38,Hague,85
+6312800807,High school,Male,Seattle,51,Q38,Hague,86
+6313030417,Bachelor's degree,Female,Seattle,29,Q38,Hague,87
+6313716227,High school,Female,Seattle,29,Q38,Hag,88
+6315024325,Bachelor's degree,Male,Seattle,23,Q38,Hague,89
